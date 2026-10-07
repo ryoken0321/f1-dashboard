@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F1 レース展開（順位変動）</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="stripe"></div>
+  <div class="checker"></div>
+
+  <div class="container">
+    <header>
+      <p class="eyebrow">RACE PROGRESSION · LAP BY LAP</p>
+      <h1><span class="red">F1</span> レース展開（順位変動）</h1>
+      <p class="subtitle">1周ごとの走行順位の推移。上が1位。逆転劇やオーバーテイクが線の交差で見える／ データ: Jolpica (Ergast) API</p>
+    </header>
+
+    <nav class="tabs">
+      <a href="index.html">ランキング</a>
+      <a href="constructors.html">チーム</a>
+      <a href="trend.html">推移</a>
+      <a href="gap.html">追い上げ</a>
+      <a href="laps.html" class="active">レース展開</a>
+      <a href="career.html">検索・比較</a>
+      <a href="legends.html">歴代</a>
+      <a href="analysis.html">分析</a>
+    </nav>
+
+    <div class="toolbar">
+      <div class="ctrl">
+        <label for="raceSel">Race</label>
+        <select id="raceSel"><!-- laps_api.php?list=1 からJSで生成 --></select>
+      </div>
+      <button id="reloadBtn" type="button">↻ 再読み込み</button>
+    </div>
+
+    <p id="status" class="status hidden"></p>
+
+    <div class="card">
+      <p class="card-title" id="chartTitle">Lap-by-Lap Positions</p>
+      <div class="chart-wrap tall"><canvas id="myChart"></canvas></div>
+      <p class="note">
+        縦軸は走行順位（上=1位）。線が上へ動く＝順位UP、交差＝オーバーテイク。凡例のドライバー名をクリックすると表示/非表示を切り替えられます。
+      </p>
+    </div>
+
+    <footer>
+      Source: <span class="red">Jolpica / Ergast API</span>（オープンデータ）<br>
+      AWS EC2 (Amazon Linux) + Apache + PHP + SQLite
+    </footer>
+  </div>
+
+  <script src="js/teamdata.js"></script>
+  <script src="js/teams.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/laps.js"></script>
+</body>
+</html>

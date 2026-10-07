@@ -1,0 +1,642 @@
+season,driver,team
+2000,Michael Schumacher,Ferrari
+2000,Mika Häkkinen,McLaren
+2000,David Coulthard,McLaren
+2000,Rubens Barrichello,Ferrari
+2000,Ralf Schumacher,Williams
+2000,Giancarlo Fisichella,Benetton
+2000,Jacques Villeneuve,BAR
+2000,Jenson Button,Williams
+2000,Heinz-Harald Frentzen,Jordan
+2000,Jarno Trulli,Jordan
+2000,Mika Salo,Sauber
+2000,Jos Verstappen,Arrows
+2000,Eddie Irvine,Jaguar
+2000,Ricardo Zonta,BAR
+2000,Alexander Wurz,Benetton
+2000,Pedro de la Rosa,Arrows
+2000,Johnny Herbert,Jaguar
+2000,Pedro Diniz,Sauber
+2000,Marc Gené,Minardi
+2000,Nick Heidfeld,Prost
+2000,Gastón Mazzacane,Minardi
+2000,Jean Alesi,Prost
+2000,Luciano Burti,Jaguar
+2001,Michael Schumacher,Ferrari
+2001,David Coulthard,McLaren
+2001,Rubens Barrichello,Ferrari
+2001,Ralf Schumacher,Williams
+2001,Mika Häkkinen,McLaren
+2001,Juan Pablo Montoya,Williams
+2001,Jacques Villeneuve,BAR
+2001,Nick Heidfeld,Sauber
+2001,Jarno Trulli,Jordan
+2001,Kimi Räikkönen,Sauber
+2001,Giancarlo Fisichella,Benetton
+2001,Eddie Irvine,Jaguar
+2001,Heinz-Harald Frentzen,Prost
+2001,Olivier Panis,BAR
+2001,Jean Alesi,Jordan
+2001,Pedro de la Rosa,Jaguar
+2001,Jenson Button,Benetton
+2001,Jos Verstappen,Arrows
+2001,Ricardo Zonta,Jordan
+2001,Luciano Burti,Prost
+2001,Enrique Bernoldi,Arrows
+2001,Tarso Marques,Minardi
+2001,Fernando Alonso,Minardi
+2001,Tomáš Enge,Prost
+2001,Gastón Mazzacane,Prost
+2001,Alex Yoong,Minardi
+2002,Michael Schumacher,Ferrari
+2002,Rubens Barrichello,Ferrari
+2002,Juan Pablo Montoya,Williams
+2002,Ralf Schumacher,Williams
+2002,David Coulthard,McLaren
+2002,Kimi Räikkönen,McLaren
+2002,Jenson Button,Renault
+2002,Jarno Trulli,Renault
+2002,Eddie Irvine,Jaguar
+2002,Nick Heidfeld,Sauber
+2002,Giancarlo Fisichella,Jordan
+2002,Jacques Villeneuve,BAR
+2002,Felipe Massa,Sauber
+2002,Olivier Panis,BAR
+2002,Takuma Sato,Jordan
+2002,Mark Webber,Minardi
+2002,Mika Salo,Toyota
+2002,Heinz-Harald Frentzen,Sauber
+2002,Allan McNish,Toyota
+2002,Alex Yoong,Minardi
+2002,Pedro de la Rosa,Jaguar
+2002,Enrique Bernoldi,Arrows
+2002,Anthony Davidson,Minardi
+2003,Michael Schumacher,Ferrari
+2003,Kimi Räikkönen,McLaren
+2003,Juan Pablo Montoya,Williams
+2003,Rubens Barrichello,Ferrari
+2003,Ralf Schumacher,Williams
+2003,Fernando Alonso,Renault
+2003,David Coulthard,McLaren
+2003,Jarno Trulli,Renault
+2003,Jenson Button,BAR
+2003,Mark Webber,Jaguar
+2003,Heinz-Harald Frentzen,Sauber
+2003,Giancarlo Fisichella,Jordan
+2003,Cristiano da Matta,Toyota
+2003,Nick Heidfeld,Sauber
+2003,Olivier Panis,Toyota
+2003,Jacques Villeneuve,BAR
+2003,Marc Gené,Williams
+2003,Takuma Sato,BAR
+2003,Ralph Firman,Jordan
+2003,Justin Wilson,Jaguar
+2003,Antônio Pizzonia,Jaguar
+2003,Jos Verstappen,Minardi
+2003,Nicolas Kiesa,Minardi
+2003,Zsolt Baumgartner,Jordan
+2004,Michael Schumacher,Ferrari
+2004,Rubens Barrichello,Ferrari
+2004,Jenson Button,BAR
+2004,Fernando Alonso,Renault
+2004,Juan Pablo Montoya,Williams
+2004,Jarno Trulli,Toyota
+2004,Kimi Räikkönen,McLaren
+2004,Takuma Sato,BAR
+2004,Ralf Schumacher,Williams
+2004,David Coulthard,McLaren
+2004,Giancarlo Fisichella,Sauber
+2004,Felipe Massa,Sauber
+2004,Mark Webber,Jaguar
+2004,Olivier Panis,Toyota
+2004,Antônio Pizzonia,Williams
+2004,Christian Klien,Jaguar
+2004,Cristiano da Matta,Toyota
+2004,Nick Heidfeld,Jordan
+2004,Timo Glock,Jordan
+2004,Zsolt Baumgartner,Minardi
+2004,Jacques Villeneuve,Renault
+2004,Ricardo Zonta,Toyota
+2004,Marc Gené,Williams
+2004,Giorgio Pantano,Jordan
+2004,Gianmaria Bruni,Minardi
+2005,Fernando Alonso,Renault
+2005,Kimi Räikkönen,McLaren
+2005,Michael Schumacher,Ferrari
+2005,Juan Pablo Montoya,McLaren
+2005,Giancarlo Fisichella,Renault
+2005,Ralf Schumacher,Toyota
+2005,Jarno Trulli,Toyota
+2005,Rubens Barrichello,Ferrari
+2005,Jenson Button,BAR
+2005,Mark Webber,Williams
+2005,Nick Heidfeld,Williams
+2005,David Coulthard,Red Bull
+2005,Felipe Massa,Sauber
+2005,Jacques Villeneuve,Sauber
+2005,Christian Klien,Red Bull
+2005,Tiago Monteiro,Jordan
+2005,Alexander Wurz,McLaren
+2005,Narain Karthikeyan,Jordan
+2005,Christijan Albers,Minardi
+2005,Pedro de la Rosa,McLaren
+2005,Patrick Friesacher,Minardi
+2005,Antônio Pizzonia,Williams
+2005,Takuma Sato,BAR
+2005,Vitantonio Liuzzi,Red Bull
+2005,Robert Doornbos,Minardi
+2005,Ricardo Zonta,Toyota
+2005,Anthony Davidson,BAR
+2006,Fernando Alonso,Renault
+2006,Michael Schumacher,Ferrari
+2006,Felipe Massa,Ferrari
+2006,Giancarlo Fisichella,Renault
+2006,Kimi Räikkönen,McLaren
+2006,Jenson Button,Honda
+2006,Rubens Barrichello,Honda
+2006,Juan Pablo Montoya,McLaren
+2006,Nick Heidfeld,BMW Sauber
+2006,Ralf Schumacher,Toyota
+2006,Pedro de la Rosa,McLaren
+2006,Jarno Trulli,Toyota
+2006,David Coulthard,Red Bull
+2006,Mark Webber,Williams
+2006,Jacques Villeneuve,BMW Sauber
+2006,Robert Kubica,BMW Sauber
+2006,Nico Rosberg,Williams
+2006,Christian Klien,Red Bull
+2006,Vitantonio Liuzzi,Toro Rosso
+2006,Scott Speed,Toro Rosso
+2006,Tiago Monteiro,Spyker MF1
+2006,Christijan Albers,Spyker MF1
+2006,Takuma Sato,Super Aguri
+2006,Robert Doornbos,Red Bull
+2006,Yuji Ide,Super Aguri
+2006,Sakon Yamamoto,Super Aguri
+2006,Franck Montagny,Super Aguri
+2007,Kimi Räikkönen,Ferrari
+2007,Lewis Hamilton,McLaren
+2007,Fernando Alonso,McLaren
+2007,Felipe Massa,Ferrari
+2007,Nick Heidfeld,BMW Sauber
+2007,Robert Kubica,BMW Sauber
+2007,Heikki Kovalainen,Renault
+2007,Giancarlo Fisichella,Renault
+2007,Nico Rosberg,Williams
+2007,David Coulthard,Red Bull
+2007,Alexander Wurz,Williams
+2007,Mark Webber,Red Bull
+2007,Jarno Trulli,Toyota
+2007,Sebastian Vettel,Toro Rosso
+2007,Jenson Button,Honda
+2007,Ralf Schumacher,Toyota
+2007,Takuma Sato,Super Aguri
+2007,Vitantonio Liuzzi,Toro Rosso
+2007,Adrian Sutil,Spyker
+2007,Rubens Barrichello,Honda
+2007,Scott Speed,Toro Rosso
+2007,Kazuki Nakajima,Williams
+2007,Anthony Davidson,Super Aguri
+2007,Sakon Yamamoto,Spyker
+2007,Christijan Albers,Spyker
+2007,Markus Winkelhock,Spyker
+2008,Lewis Hamilton,McLaren
+2008,Felipe Massa,Ferrari
+2008,Kimi Räikkönen,Ferrari
+2008,Robert Kubica,BMW Sauber
+2008,Fernando Alonso,Renault
+2008,Nick Heidfeld,BMW Sauber
+2008,Heikki Kovalainen,McLaren
+2008,Sebastian Vettel,Toro Rosso
+2008,Jarno Trulli,Toyota
+2008,Timo Glock,Toyota
+2008,Mark Webber,Red Bull
+2008,Nelson Piquet Jr.,Renault
+2008,Nico Rosberg,Williams
+2008,Rubens Barrichello,Honda
+2008,Kazuki Nakajima,Williams
+2008,David Coulthard,Red Bull
+2008,Sébastien Bourdais,Toro Rosso
+2008,Jenson Button,Honda
+2008,Giancarlo Fisichella,Force India
+2008,Adrian Sutil,Force India
+2008,Takuma Sato,Super Aguri
+2008,Anthony Davidson,Super Aguri
+2009,Jenson Button,Brawn
+2009,Sebastian Vettel,Red Bull
+2009,Rubens Barrichello,Brawn
+2009,Mark Webber,Red Bull
+2009,Lewis Hamilton,McLaren
+2009,Kimi Räikkönen,Ferrari
+2009,Nico Rosberg,Williams
+2009,Jarno Trulli,Toyota
+2009,Fernando Alonso,Renault
+2009,Timo Glock,Toyota
+2009,Felipe Massa,Ferrari
+2009,Heikki Kovalainen,McLaren
+2009,Nick Heidfeld,BMW Sauber
+2009,Robert Kubica,BMW Sauber
+2009,Giancarlo Fisichella,Ferrari
+2009,Sébastien Buemi,Toro Rosso
+2009,Adrian Sutil,Force India
+2009,Kamui Kobayashi,Toyota
+2009,Sébastien Bourdais,Toro Rosso
+2009,Kazuki Nakajima,Williams
+2009,Nelson Piquet Jr.,Renault
+2009,Vitantonio Liuzzi,Force India
+2009,Romain Grosjean,Renault
+2009,Jaime Alguersuari,Toro Rosso
+2009,Luca Badoer,Ferrari
+2010,Sebastian Vettel,Red Bull
+2010,Fernando Alonso,Ferrari
+2010,Mark Webber,Red Bull
+2010,Lewis Hamilton,McLaren
+2010,Jenson Button,McLaren
+2010,Felipe Massa,Ferrari
+2010,Nico Rosberg,Mercedes
+2010,Robert Kubica,Renault
+2010,Michael Schumacher,Mercedes
+2010,Rubens Barrichello,Williams
+2010,Adrian Sutil,Force India
+2010,Kamui Kobayashi,Sauber
+2010,Vitaly Petrov,Renault
+2010,Nico Hülkenberg,Williams
+2010,Vitantonio Liuzzi,Force India
+2010,Sébastien Buemi,Toro Rosso
+2010,Pedro de la Rosa,Sauber
+2010,Nick Heidfeld,Sauber
+2010,Jaime Alguersuari,Toro Rosso
+2010,Heikki Kovalainen,Lotus
+2010,Jarno Trulli,Lotus
+2010,Karun Chandhok,HRT
+2010,Bruno Senna,HRT
+2010,Lucas di Grassi,Virgin
+2010,Timo Glock,Virgin
+2010,Sakon Yamamoto,HRT
+2010,Christian Klien,HRT
+2011,Sebastian Vettel,Red Bull
+2011,Jenson Button,McLaren
+2011,Mark Webber,Red Bull
+2011,Fernando Alonso,Ferrari
+2011,Lewis Hamilton,McLaren
+2011,Felipe Massa,Ferrari
+2011,Nico Rosberg,Mercedes
+2011,Michael Schumacher,Mercedes
+2011,Adrian Sutil,Force India
+2011,Vitaly Petrov,Renault
+2011,Nick Heidfeld,Renault
+2011,Kamui Kobayashi,Sauber
+2011,Paul di Resta,Force India
+2011,Jaime Alguersuari,Toro Rosso
+2011,Sébastien Buemi,Toro Rosso
+2011,Sergio Pérez,Sauber
+2011,Rubens Barrichello,Williams
+2011,Bruno Senna,Renault
+2011,Pastor Maldonado,Williams
+2011,Pedro de la Rosa,Sauber
+2011,Jarno Trulli,Lotus
+2011,Heikki Kovalainen,Lotus
+2011,Vitantonio Liuzzi,HRT
+2011,Jérôme d'Ambrosio,Virgin
+2011,Timo Glock,Virgin
+2011,Narain Karthikeyan,HRT
+2011,Daniel Ricciardo,HRT
+2011,Karun Chandhok,Lotus
+2012,Sebastian Vettel,Red Bull
+2012,Fernando Alonso,Ferrari
+2012,Kimi Räikkönen,Lotus F1
+2012,Lewis Hamilton,McLaren
+2012,Jenson Button,McLaren
+2012,Mark Webber,Red Bull
+2012,Felipe Massa,Ferrari
+2012,Romain Grosjean,Lotus F1
+2012,Nico Rosberg,Mercedes
+2012,Sergio Pérez,Sauber
+2012,Nico Hülkenberg,Force India
+2012,Kamui Kobayashi,Sauber
+2012,Michael Schumacher,Mercedes
+2012,Paul di Resta,Force India
+2012,Pastor Maldonado,Williams
+2012,Bruno Senna,Williams
+2012,Jean-Éric Vergne,Toro Rosso
+2012,Daniel Ricciardo,Toro Rosso
+2012,Vitaly Petrov,Caterham
+2012,Timo Glock,Marussia
+2012,Charles Pic,Marussia
+2012,Heikki Kovalainen,Caterham
+2012,Jérôme d'Ambrosio,Lotus F1
+2012,Narain Karthikeyan,HRT
+2012,Pedro de la Rosa,HRT
+2013,Sebastian Vettel,Red Bull
+2013,Fernando Alonso,Ferrari
+2013,Mark Webber,Red Bull
+2013,Lewis Hamilton,Mercedes
+2013,Kimi Räikkönen,Lotus F1
+2013,Nico Rosberg,Mercedes
+2013,Romain Grosjean,Lotus F1
+2013,Felipe Massa,Ferrari
+2013,Jenson Button,McLaren
+2013,Nico Hülkenberg,Sauber
+2013,Sergio Pérez,McLaren
+2013,Paul di Resta,Force India
+2013,Adrian Sutil,Force India
+2013,Daniel Ricciardo,Toro Rosso
+2013,Jean-Éric Vergne,Toro Rosso
+2013,Esteban Gutiérrez,Sauber
+2013,Valtteri Bottas,Williams
+2013,Pastor Maldonado,Williams
+2013,Jules Bianchi,Marussia
+2013,Charles Pic,Caterham
+2013,Giedo van der Garde,Caterham
+2013,Heikki Kovalainen,Lotus F1
+2013,Max Chilton,Marussia
+2014,Lewis Hamilton,Mercedes
+2014,Nico Rosberg,Mercedes
+2014,Daniel Ricciardo,Red Bull
+2014,Valtteri Bottas,Williams
+2014,Sebastian Vettel,Red Bull
+2014,Fernando Alonso,Ferrari
+2014,Felipe Massa,Williams
+2014,Jenson Button,McLaren
+2014,Nico Hülkenberg,Force India
+2014,Sergio Pérez,Force India
+2014,Kevin Magnussen,McLaren
+2014,Kimi Räikkönen,Ferrari
+2014,Jean-Éric Vergne,Toro Rosso
+2014,Romain Grosjean,Lotus F1
+2014,Daniil Kvyat,Toro Rosso
+2014,Pastor Maldonado,Lotus F1
+2014,Jules Bianchi,Marussia
+2014,Adrian Sutil,Sauber
+2014,Marcus Ericsson,Caterham
+2014,Esteban Gutiérrez,Sauber
+2014,Max Chilton,Marussia
+2014,Kamui Kobayashi,Caterham
+2014,Will Stevens,Caterham
+2014,André Lotterer,Caterham
+2015,Lewis Hamilton,Mercedes
+2015,Nico Rosberg,Mercedes
+2015,Sebastian Vettel,Ferrari
+2015,Kimi Räikkönen,Ferrari
+2015,Valtteri Bottas,Williams
+2015,Felipe Massa,Williams
+2015,Daniil Kvyat,Red Bull
+2015,Daniel Ricciardo,Red Bull
+2015,Sergio Pérez,Force India
+2015,Nico Hülkenberg,Force India
+2015,Romain Grosjean,Lotus F1
+2015,Max Verstappen,Toro Rosso
+2015,Felipe Nasr,Sauber
+2015,Pastor Maldonado,Lotus F1
+2015,Carlos Sainz,Toro Rosso
+2015,Jenson Button,McLaren
+2015,Fernando Alonso,McLaren
+2015,Marcus Ericsson,Sauber
+2015,Roberto Merhi,Manor Marussia
+2015,Alexander Rossi,Manor Marussia
+2015,Will Stevens,Manor Marussia
+2015,Kevin Magnussen,McLaren
+2016,Nico Rosberg,Mercedes
+2016,Lewis Hamilton,Mercedes
+2016,Daniel Ricciardo,Red Bull
+2016,Sebastian Vettel,Ferrari
+2016,Max Verstappen,Red Bull
+2016,Kimi Räikkönen,Ferrari
+2016,Sergio Pérez,Force India
+2016,Valtteri Bottas,Williams
+2016,Nico Hülkenberg,Force India
+2016,Fernando Alonso,McLaren
+2016,Felipe Massa,Williams
+2016,Carlos Sainz,Toro Rosso
+2016,Romain Grosjean,Haas F1 Team
+2016,Daniil Kvyat,Toro Rosso
+2016,Jenson Button,McLaren
+2016,Kevin Magnussen,Renault
+2016,Felipe Nasr,Sauber
+2016,Jolyon Palmer,Renault
+2016,Pascal Wehrlein,Manor Marussia
+2016,Stoffel Vandoorne,McLaren
+2016,Esteban Gutiérrez,Haas F1 Team
+2016,Marcus Ericsson,Sauber
+2016,Esteban Ocon,Manor Marussia
+2016,Rio Haryanto,Manor Marussia
+2017,Lewis Hamilton,Mercedes
+2017,Sebastian Vettel,Ferrari
+2017,Valtteri Bottas,Mercedes
+2017,Kimi Räikkönen,Ferrari
+2017,Daniel Ricciardo,Red Bull
+2017,Max Verstappen,Red Bull
+2017,Sergio Pérez,Force India
+2017,Esteban Ocon,Force India
+2017,Carlos Sainz,Renault
+2017,Nico Hülkenberg,Renault
+2017,Felipe Massa,Williams
+2017,Lance Stroll,Williams
+2017,Romain Grosjean,Haas F1 Team
+2017,Kevin Magnussen,Haas F1 Team
+2017,Fernando Alonso,McLaren
+2017,Stoffel Vandoorne,McLaren
+2017,Jolyon Palmer,Renault
+2017,Pascal Wehrlein,Sauber
+2017,Daniil Kvyat,Toro Rosso
+2017,Marcus Ericsson,Sauber
+2017,Pierre Gasly,Toro Rosso
+2017,Antonio Giovinazzi,Sauber
+2017,Brendon Hartley,Toro Rosso
+2017,Jenson Button,McLaren
+2017,Paul di Resta,Williams
+2018,Lewis Hamilton,Mercedes
+2018,Sebastian Vettel,Ferrari
+2018,Kimi Räikkönen,Ferrari
+2018,Max Verstappen,Red Bull
+2018,Valtteri Bottas,Mercedes
+2018,Daniel Ricciardo,Red Bull
+2018,Nico Hülkenberg,Renault
+2018,Sergio Pérez,Force India
+2018,Kevin Magnussen,Haas F1 Team
+2018,Carlos Sainz,Renault
+2018,Fernando Alonso,McLaren
+2018,Esteban Ocon,Force India
+2018,Charles Leclerc,Sauber
+2018,Romain Grosjean,Haas F1 Team
+2018,Pierre Gasly,Toro Rosso
+2018,Stoffel Vandoorne,McLaren
+2018,Marcus Ericsson,Sauber
+2018,Lance Stroll,Williams
+2018,Brendon Hartley,Toro Rosso
+2018,Sergey Sirotkin,Williams
+2019,Lewis Hamilton,Mercedes
+2019,Valtteri Bottas,Mercedes
+2019,Max Verstappen,Red Bull
+2019,Charles Leclerc,Ferrari
+2019,Sebastian Vettel,Ferrari
+2019,Carlos Sainz,McLaren
+2019,Pierre Gasly,Toro Rosso
+2019,Alexander Albon,Red Bull
+2019,Daniel Ricciardo,Renault
+2019,Sergio Pérez,Racing Point
+2019,Lando Norris,McLaren
+2019,Kimi Räikkönen,Alfa Romeo
+2019,Daniil Kvyat,Toro Rosso
+2019,Nico Hülkenberg,Renault
+2019,Lance Stroll,Racing Point
+2019,Kevin Magnussen,Haas F1 Team
+2019,Antonio Giovinazzi,Alfa Romeo
+2019,Romain Grosjean,Haas F1 Team
+2019,Robert Kubica,Williams
+2019,George Russell,Williams
+2020,Lewis Hamilton,Mercedes
+2020,Valtteri Bottas,Mercedes
+2020,Max Verstappen,Red Bull
+2020,Sergio Pérez,Racing Point
+2020,Daniel Ricciardo,Renault
+2020,Carlos Sainz,McLaren
+2020,Alexander Albon,Red Bull
+2020,Charles Leclerc,Ferrari
+2020,Lando Norris,McLaren
+2020,Pierre Gasly,AlphaTauri
+2020,Lance Stroll,Racing Point
+2020,Esteban Ocon,Renault
+2020,Sebastian Vettel,Ferrari
+2020,Daniil Kvyat,AlphaTauri
+2020,Nico Hülkenberg,Racing Point
+2020,Kimi Räikkönen,Alfa Romeo
+2020,Antonio Giovinazzi,Alfa Romeo
+2020,George Russell,Mercedes
+2020,Romain Grosjean,Haas F1 Team
+2020,Kevin Magnussen,Haas F1 Team
+2020,Nicholas Latifi,Williams
+2020,Jack Aitken,Williams
+2020,Pietro Fittipaldi,Haas F1 Team
+2021,Max Verstappen,Red Bull
+2021,Lewis Hamilton,Mercedes
+2021,Valtteri Bottas,Mercedes
+2021,Sergio Pérez,Red Bull
+2021,Carlos Sainz,Ferrari
+2021,Lando Norris,McLaren
+2021,Charles Leclerc,Ferrari
+2021,Daniel Ricciardo,McLaren
+2021,Pierre Gasly,AlphaTauri
+2021,Fernando Alonso,Alpine F1 Team
+2021,Esteban Ocon,Alpine F1 Team
+2021,Sebastian Vettel,Aston Martin
+2021,Lance Stroll,Aston Martin
+2021,Yuki Tsunoda,AlphaTauri
+2021,George Russell,Williams
+2021,Kimi Räikkönen,Alfa Romeo
+2021,Nicholas Latifi,Williams
+2021,Antonio Giovinazzi,Alfa Romeo
+2021,Mick Schumacher,Haas F1 Team
+2021,Robert Kubica,Alfa Romeo
+2021,Nikita Mazepin,Haas F1 Team
+2022,Max Verstappen,Red Bull
+2022,Charles Leclerc,Ferrari
+2022,Sergio Pérez,Red Bull
+2022,George Russell,Mercedes
+2022,Carlos Sainz,Ferrari
+2022,Lewis Hamilton,Mercedes
+2022,Lando Norris,McLaren
+2022,Esteban Ocon,Alpine F1 Team
+2022,Fernando Alonso,Alpine F1 Team
+2022,Valtteri Bottas,Alfa Romeo
+2022,Daniel Ricciardo,McLaren
+2022,Sebastian Vettel,Aston Martin
+2022,Kevin Magnussen,Haas F1 Team
+2022,Pierre Gasly,AlphaTauri
+2022,Lance Stroll,Aston Martin
+2022,Mick Schumacher,Haas F1 Team
+2022,Yuki Tsunoda,AlphaTauri
+2022,Guanyu Zhou,Alfa Romeo
+2022,Alexander Albon,Williams
+2022,Nicholas Latifi,Williams
+2022,Nyck de Vries,Williams
+2022,Nico Hülkenberg,Aston Martin
+2023,Max Verstappen,Red Bull
+2023,Sergio Pérez,Red Bull
+2023,Lewis Hamilton,Mercedes
+2023,Fernando Alonso,Aston Martin
+2023,Charles Leclerc,Ferrari
+2023,Lando Norris,McLaren
+2023,Carlos Sainz,Ferrari
+2023,George Russell,Mercedes
+2023,Oscar Piastri,McLaren
+2023,Lance Stroll,Aston Martin
+2023,Pierre Gasly,Alpine F1 Team
+2023,Esteban Ocon,Alpine F1 Team
+2023,Alexander Albon,Williams
+2023,Yuki Tsunoda,AlphaTauri
+2023,Valtteri Bottas,Alfa Romeo
+2023,Nico Hülkenberg,Haas F1 Team
+2023,Daniel Ricciardo,AlphaTauri
+2023,Guanyu Zhou,Alfa Romeo
+2023,Kevin Magnussen,Haas F1 Team
+2023,Liam Lawson,AlphaTauri
+2023,Logan Sargeant,Williams
+2023,Nyck de Vries,AlphaTauri
+2024,Max Verstappen,Red Bull
+2024,Lando Norris,McLaren
+2024,Charles Leclerc,Ferrari
+2024,Oscar Piastri,McLaren
+2024,Carlos Sainz,Ferrari
+2024,George Russell,Mercedes
+2024,Lewis Hamilton,Mercedes
+2024,Sergio Pérez,Red Bull
+2024,Fernando Alonso,Aston Martin
+2024,Pierre Gasly,Alpine F1 Team
+2024,Nico Hülkenberg,Haas F1 Team
+2024,Yuki Tsunoda,RB F1 Team
+2024,Lance Stroll,Aston Martin
+2024,Esteban Ocon,Alpine F1 Team
+2024,Kevin Magnussen,Haas F1 Team
+2024,Alexander Albon,Williams
+2024,Daniel Ricciardo,RB F1 Team
+2024,Oliver Bearman,Haas F1 Team
+2024,Franco Colapinto,Williams
+2024,Guanyu Zhou,Sauber
+2024,Liam Lawson,RB F1 Team
+2024,Valtteri Bottas,Sauber
+2024,Logan Sargeant,Williams
+2024,Jack Doohan,Alpine F1 Team
+2025,Lando Norris,McLaren
+2025,Max Verstappen,Red Bull
+2025,Oscar Piastri,McLaren
+2025,George Russell,Mercedes
+2025,Charles Leclerc,Ferrari
+2025,Lewis Hamilton,Ferrari
+2025,Andrea Kimi Antonelli,Mercedes
+2025,Alexander Albon,Williams
+2025,Carlos Sainz,Williams
+2025,Fernando Alonso,Aston Martin
+2025,Nico Hülkenberg,Sauber
+2025,Isack Hadjar,RB F1 Team
+2025,Oliver Bearman,Haas F1 Team
+2025,Liam Lawson,RB F1 Team
+2025,Esteban Ocon,Haas F1 Team
+2025,Lance Stroll,Aston Martin
+2025,Yuki Tsunoda,Red Bull
+2025,Pierre Gasly,Alpine F1 Team
+2025,Gabriel Bortoleto,Sauber
+2025,Franco Colapinto,Alpine F1 Team
+2025,Jack Doohan,Alpine F1 Team
+2026,Andrea Kimi Antonelli,Mercedes
+2026,George Russell,Mercedes
+2026,Charles Leclerc,Ferrari
+2026,Lewis Hamilton,Ferrari
+2026,Lando Norris,McLaren
+2026,Oscar Piastri,McLaren
+2026,Max Verstappen,Red Bull
+2026,Pierre Gasly,Alpine F1 Team
+2026,Oliver Bearman,Haas F1 Team
+2026,Liam Lawson,RB F1 Team
+2026,Franco Colapinto,Alpine F1 Team
+2026,Isack Hadjar,Red Bull
+2026,Carlos Sainz,Williams
+2026,Arvid Lindblad,RB F1 Team
+2026,Gabriel Bortoleto,Audi
+2026,Esteban Ocon,Haas F1 Team
+2026,Alexander Albon,Williams
+2026,Nico Hülkenberg,Audi
+2026,Valtteri Bottas,Cadillac F1 Team
+2026,Sergio Pérez,Cadillac F1 Team
+2026,Lance Stroll,Aston Martin
+2026,Fernando Alonso,Aston Martin

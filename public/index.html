@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F1 ドライバー成績ダッシュボード</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="stripe"></div>
+  <div class="checker"></div>
+
+  <div class="container">
+    <header>
+      <p class="eyebrow">DRIVER STANDINGS · 2000 — 2026</p>
+      <h1><span class="red">F1</span> ドライバー成績ダッシュボード</h1>
+      <p class="subtitle">年別 ドライバー獲得ポイントランキング ／ データ: Jolpica (Ergast) API</p>
+    </header>
+
+    <nav class="tabs">
+      <a href="index.html" class="active">ランキング</a>
+      <a href="constructors.html">チーム</a>
+      <a href="trend.html">推移</a>
+      <a href="gap.html">追い上げ</a>
+      <a href="laps.html">レース展開</a>
+      <a href="career.html">検索・比較</a>
+      <a href="legends.html">歴代</a>
+      <a href="analysis.html">分析</a>
+    </nav>
+
+    <div class="toolbar">
+      <div class="ctrl">
+        <label for="fieldName">Season</label>
+        <select id="fieldName"><!-- 年(2000-2026)はJSで生成 --></select>
+      </div>
+      <div class="ctrl">
+        <label for="teamFilter">Team</label>
+        <select id="teamFilter"><option value="all">全チーム</option></select>
+      </div>
+      <div class="ctrl">
+        <label for="sortSel">Sort</label>
+        <select id="sortSel">
+          <option value="points">ポイント順</option>
+          <option value="name">名前順</option>
+          <option value="team">チーム順</option>
+        </select>
+      </div>
+      <button id="reloadBtn" type="button">↻</button>
+      <button id="dlBtn" type="button">⤓ CSV</button>
+    </div>
+
+    <!-- 王者・統計ハイライト -->
+    <div class="stats">
+      <div class="stat">
+        <div class="k">🏆 Champion</div>
+        <div class="v small" id="statChamp">—</div>
+      </div>
+      <div class="stat">
+        <div class="k">Top Points</div>
+        <div class="v" id="statPoints">—<span class="u">pts</span></div>
+      </div>
+      <div class="stat">
+        <div class="k">Scored / Entered</div>
+        <div class="v" id="statDrivers">—<span class="u">人</span></div>
+      </div>
+    </div>
+
+    <p id="status" class="status hidden"></p>
+
+    <div class="card">
+      <p class="card-title" id="chartTitle">Points by Driver</p>
+      <div class="chart-wrap"><canvas id="myChart"></canvas></div>
+    </div>
+
+    <div class="card">
+      <p class="card-title">Full Standings</p>
+      <table id="dataTable"></table>
+    </div>
+
+    <footer>
+      Source: <span class="red">Jolpica / Ergast API</span>（オープンデータ）<br>
+      AWS EC2 (Amazon Linux) + Apache + PHP + SQLite
+    </footer>
+  </div>
+
+  <script src="js/teamdata.js"></script>
+  <script src="js/teams.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/dashboard.js"></script>
+</body>
+</html>

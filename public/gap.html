@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F1 予選→決勝 追い上げ・後退</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="stripe"></div>
+  <div class="checker"></div>
+
+  <div class="container">
+    <header>
+      <p class="eyebrow">GRID vs FINISH · 2021 — 2026</p>
+      <h1><span class="red">F1</span> 予選→決勝 追い上げ・後退</h1>
+      <p class="subtitle">スタート位置から決勝で何ポジション上げた／下げたか（シーズン通算）／ データ: Jolpica (Ergast) API</p>
+    </header>
+
+    <nav class="tabs">
+      <a href="index.html">ランキング</a>
+      <a href="constructors.html">チーム</a>
+      <a href="trend.html">推移</a>
+      <a href="gap.html" class="active">追い上げ</a>
+      <a href="laps.html">レース展開</a>
+      <a href="career.html">検索・比較</a>
+      <a href="legends.html">歴代</a>
+      <a href="analysis.html">分析</a>
+    </nav>
+
+    <div class="toolbar">
+      <div class="ctrl">
+        <label for="seasonSel">Season</label>
+        <select id="seasonSel"><!-- 2021-2026 はJSで生成 --></select>
+      </div>
+      <button id="reloadBtn" type="button">↻ 再読み込み</button>
+    </div>
+
+    <p id="status" class="status hidden"></p>
+
+    <div class="card">
+      <p class="card-title" id="chartTitle">Net Positions Gained (Season Total)</p>
+      <div class="chart-wrap tall"><canvas id="myChart"></canvas></div>
+      <p class="note">
+        <span class="swatch gain"></span> 追い上げ（予選より決勝が上）
+        <span class="swatch loss"></span> 後退（予選より決勝が下）
+        ｜ 値 = Σ(スタート位置 − 決勝順位)。ピットレーンスタート(grid=0)は除外。リタイアも決勝順位として加算されるため上位勢はマイナスになりやすい。
+      </p>
+    </div>
+
+    <footer>
+      Source: <span class="red">Jolpica / Ergast API</span>（オープンデータ）<br>
+      AWS EC2 (Amazon Linux) + Apache + PHP + SQLite
+    </footer>
+  </div>
+
+  <script src="js/teamdata.js"></script>
+  <script src="js/teams.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/gap.js"></script>
+</body>
+</html>

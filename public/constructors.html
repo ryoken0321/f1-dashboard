@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F1 コンストラクターズ ランキング</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="stripe"></div>
+  <div class="checker"></div>
+
+  <div class="container">
+    <header>
+      <p class="eyebrow">CONSTRUCTORS · 2000 — 2026</p>
+      <h1><span class="red">F1</span> コンストラクターズ ランキング</h1>
+      <p class="subtitle">チーム別 合計獲得ポイント（その年に所属したドライバー全員の合算）／ データ: Jolpica (Ergast) API</p>
+    </header>
+
+    <nav class="tabs">
+      <a href="index.html">ランキング</a>
+      <a href="constructors.html" class="active">チーム</a>
+      <a href="trend.html">推移</a>
+      <a href="gap.html">追い上げ</a>
+      <a href="laps.html">レース展開</a>
+      <a href="career.html">検索・比較</a>
+      <a href="legends.html">歴代</a>
+      <a href="analysis.html">分析</a>
+    </nav>
+
+    <div class="toolbar">
+      <div class="ctrl">
+        <label for="seasonSel">Season</label>
+        <select id="seasonSel"></select>
+      </div>
+      <button id="reloadBtn" type="button">↻ 再読み込み</button>
+    </div>
+
+    <div class="stats">
+      <div class="stat">
+        <div class="k">🏆 Champion Team</div>
+        <div class="v small" id="statChamp">—</div>
+      </div>
+      <div class="stat">
+        <div class="k">Top Points</div>
+        <div class="v" id="statPoints">—<span class="u">pts</span></div>
+      </div>
+      <div class="stat">
+        <div class="k">Scored / Entered</div>
+        <div class="v" id="statTeams">—<span class="u">チーム</span></div>
+      </div>
+    </div>
+
+    <p id="status" class="status hidden"></p>
+
+    <div class="card">
+      <p class="card-title" id="chartTitle">Points by Team</p>
+      <div class="chart-wrap"><canvas id="myChart"></canvas></div>
+    </div>
+
+    <div class="card">
+      <p class="card-title">Constructor Standings</p>
+      <table id="dataTable"></table>
+    </div>
+
+    <footer>
+      Source: <span class="red">Jolpica / Ergast API</span>（オープンデータ）<br>
+      AWS EC2 (Amazon Linux) + Apache + PHP + SQLite
+    </footer>
+  </div>
+
+  <script src="js/teamdata.js"></script>
+  <script src="js/teams.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/constructors.js"></script>
+</body>
+</html>

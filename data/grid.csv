@@ -1,0 +1,2477 @@
+season,round,driver,grid,finish,status
+2021,1,Lewis Hamilton,2,1,Finished
+2021,1,Max Verstappen,1,2,Finished
+2021,1,Valtteri Bottas,3,3,Finished
+2021,1,Lando Norris,7,4,Finished
+2021,1,Sergio Pérez,0,5,Finished
+2021,1,Charles Leclerc,4,6,Finished
+2021,1,Daniel Ricciardo,6,7,Finished
+2021,1,Carlos Sainz,8,8,Finished
+2021,1,Yuki Tsunoda,13,9,Finished
+2021,1,Lance Stroll,10,10,Finished
+2021,1,Kimi Räikkönen,14,11,Finished
+2021,1,Antonio Giovinazzi,12,12,+1 Lap
+2021,1,Esteban Ocon,16,13,+1 Lap
+2021,1,George Russell,15,14,+1 Lap
+2021,1,Sebastian Vettel,20,15,+1 Lap
+2021,1,Mick Schumacher,18,16,+1 Lap
+2021,1,Pierre Gasly,5,17,Retired
+2021,1,Nicholas Latifi,17,18,Retired
+2021,1,Fernando Alonso,9,19,Brakes
+2021,1,Nikita Mazepin,19,20,Accident
+2021,2,Max Verstappen,3,1,Finished
+2021,2,Lewis Hamilton,1,2,Finished
+2021,2,Lando Norris,7,3,Finished
+2021,2,Charles Leclerc,4,4,Finished
+2021,2,Carlos Sainz,11,5,Finished
+2021,2,Daniel Ricciardo,6,6,Finished
+2021,2,Pierre Gasly,5,7,Finished
+2021,2,Lance Stroll,10,8,Finished
+2021,2,Esteban Ocon,9,9,Finished
+2021,2,Fernando Alonso,15,10,Finished
+2021,2,Sergio Pérez,2,11,Finished
+2021,2,Yuki Tsunoda,20,12,Finished
+2021,2,Kimi Räikkönen,16,13,Finished
+2021,2,Antonio Giovinazzi,17,14,+1 Lap
+2021,2,Sebastian Vettel,0,15,Gearbox
+2021,2,Mick Schumacher,18,16,+2 Laps
+2021,2,Nikita Mazepin,19,17,+2 Laps
+2021,2,Valtteri Bottas,8,18,Collision
+2021,2,George Russell,12,19,Collision
+2021,2,Nicholas Latifi,14,20,Collision
+2021,3,Lewis Hamilton,2,1,Finished
+2021,3,Max Verstappen,3,2,Finished
+2021,3,Valtteri Bottas,1,3,Finished
+2021,3,Sergio Pérez,4,4,Finished
+2021,3,Lando Norris,7,5,Finished
+2021,3,Charles Leclerc,8,6,Finished
+2021,3,Esteban Ocon,6,7,Finished
+2021,3,Fernando Alonso,13,8,Finished
+2021,3,Daniel Ricciardo,16,9,Finished
+2021,3,Pierre Gasly,9,10,Finished
+2021,3,Carlos Sainz,5,11,Finished
+2021,3,Antonio Giovinazzi,12,12,+1 Lap
+2021,3,Sebastian Vettel,10,13,+1 Lap
+2021,3,Lance Stroll,17,14,+1 Lap
+2021,3,Yuki Tsunoda,14,15,+1 Lap
+2021,3,George Russell,11,16,+1 Lap
+2021,3,Mick Schumacher,19,17,+2 Laps
+2021,3,Nicholas Latifi,18,18,+2 Laps
+2021,3,Nikita Mazepin,20,19,+2 Laps
+2021,3,Kimi Räikkönen,15,20,Collision damage
+2021,4,Lewis Hamilton,1,1,Finished
+2021,4,Max Verstappen,2,2,Finished
+2021,4,Valtteri Bottas,3,3,Finished
+2021,4,Charles Leclerc,4,4,Finished
+2021,4,Sergio Pérez,8,5,Finished
+2021,4,Daniel Ricciardo,7,6,Finished
+2021,4,Carlos Sainz,6,7,Finished
+2021,4,Lando Norris,9,8,+1 Lap
+2021,4,Esteban Ocon,5,9,+1 Lap
+2021,4,Pierre Gasly,12,10,+1 Lap
+2021,4,Lance Stroll,11,11,+1 Lap
+2021,4,Kimi Räikkönen,17,12,+1 Lap
+2021,4,Sebastian Vettel,13,13,+1 Lap
+2021,4,George Russell,15,14,+1 Lap
+2021,4,Antonio Giovinazzi,14,15,+1 Lap
+2021,4,Nicholas Latifi,19,16,+1 Lap
+2021,4,Fernando Alonso,10,17,+1 Lap
+2021,4,Mick Schumacher,18,18,+2 Laps
+2021,4,Nikita Mazepin,20,19,+2 Laps
+2021,4,Yuki Tsunoda,16,20,Electrical
+2021,5,Max Verstappen,2,1,Finished
+2021,5,Carlos Sainz,4,2,Finished
+2021,5,Lando Norris,5,3,Finished
+2021,5,Sergio Pérez,9,4,Finished
+2021,5,Sebastian Vettel,8,5,Finished
+2021,5,Pierre Gasly,6,6,Finished
+2021,5,Lewis Hamilton,7,7,Finished
+2021,5,Lance Stroll,13,8,+1 Lap
+2021,5,Esteban Ocon,11,9,+1 Lap
+2021,5,Antonio Giovinazzi,10,10,+1 Lap
+2021,5,Kimi Räikkönen,14,11,+1 Lap
+2021,5,Daniel Ricciardo,12,12,+1 Lap
+2021,5,Fernando Alonso,17,13,+1 Lap
+2021,5,George Russell,15,14,+1 Lap
+2021,5,Nicholas Latifi,18,15,+1 Lap
+2021,5,Yuki Tsunoda,16,16,+1 Lap
+2021,5,Nikita Mazepin,19,17,+3 Laps
+2021,5,Mick Schumacher,20,18,+3 Laps
+2021,5,Valtteri Bottas,3,19,Wheel nut
+2021,5,Charles Leclerc,1,20,Driveshaft
+2021,6,Sergio Pérez,6,1,Finished
+2021,6,Sebastian Vettel,11,2,Finished
+2021,6,Pierre Gasly,4,3,Finished
+2021,6,Charles Leclerc,1,4,Finished
+2021,6,Lando Norris,9,5,Finished
+2021,6,Fernando Alonso,8,6,Finished
+2021,6,Yuki Tsunoda,7,7,Finished
+2021,6,Carlos Sainz,5,8,Finished
+2021,6,Daniel Ricciardo,13,9,Finished
+2021,6,Kimi Räikkönen,14,10,Finished
+2021,6,Antonio Giovinazzi,20,11,Finished
+2021,6,Valtteri Bottas,10,12,Finished
+2021,6,Mick Schumacher,17,13,Finished
+2021,6,Nikita Mazepin,18,14,Finished
+2021,6,Lewis Hamilton,2,15,Finished
+2021,6,Nicholas Latifi,16,16,Finished
+2021,6,George Russell,15,17,Gearbox
+2021,6,Max Verstappen,3,18,Accident
+2021,6,Lance Stroll,19,19,Accident
+2021,6,Esteban Ocon,12,20,Turbo
+2021,7,Max Verstappen,1,1,Finished
+2021,7,Lewis Hamilton,2,2,Finished
+2021,7,Sergio Pérez,4,3,Finished
+2021,7,Valtteri Bottas,3,4,Finished
+2021,7,Lando Norris,8,5,Finished
+2021,7,Daniel Ricciardo,10,6,Finished
+2021,7,Pierre Gasly,6,7,Finished
+2021,7,Fernando Alonso,9,8,Finished
+2021,7,Sebastian Vettel,12,9,Finished
+2021,7,Lance Stroll,19,10,Finished
+2021,7,Carlos Sainz,5,11,Finished
+2021,7,George Russell,14,12,+1 Lap
+2021,7,Yuki Tsunoda,0,13,+1 Lap
+2021,7,Esteban Ocon,11,14,+1 Lap
+2021,7,Antonio Giovinazzi,13,15,+1 Lap
+2021,7,Charles Leclerc,7,16,+1 Lap
+2021,7,Kimi Räikkönen,17,17,+1 Lap
+2021,7,Nicholas Latifi,16,18,+1 Lap
+2021,7,Mick Schumacher,15,19,+1 Lap
+2021,7,Nikita Mazepin,18,20,+1 Lap
+2021,8,Max Verstappen,1,1,Finished
+2021,8,Lewis Hamilton,2,2,Finished
+2021,8,Valtteri Bottas,5,3,Finished
+2021,8,Sergio Pérez,4,4,Finished
+2021,8,Lando Norris,3,5,+1 Lap
+2021,8,Carlos Sainz,12,6,+1 Lap
+2021,8,Charles Leclerc,7,7,+1 Lap
+2021,8,Lance Stroll,9,8,+1 Lap
+2021,8,Fernando Alonso,8,9,+1 Lap
+2021,8,Yuki Tsunoda,11,10,+1 Lap
+2021,8,Kimi Räikkönen,18,11,+1 Lap
+2021,8,Sebastian Vettel,14,12,+1 Lap
+2021,8,Daniel Ricciardo,13,13,+1 Lap
+2021,8,Esteban Ocon,17,14,+1 Lap
+2021,8,Antonio Giovinazzi,15,15,+1 Lap
+2021,8,Mick Schumacher,19,16,+2 Laps
+2021,8,Nicholas Latifi,16,17,+3 Laps
+2021,8,Nikita Mazepin,20,18,+3 Laps
+2021,8,George Russell,10,19,Engine
+2021,8,Pierre Gasly,6,20,Collision
+2021,9,Max Verstappen,1,1,Finished
+2021,9,Valtteri Bottas,5,2,Finished
+2021,9,Lando Norris,2,3,Finished
+2021,9,Lewis Hamilton,4,4,Finished
+2021,9,Carlos Sainz,10,5,Finished
+2021,9,Sergio Pérez,3,6,Finished
+2021,9,Daniel Ricciardo,13,7,Finished
+2021,9,Charles Leclerc,12,8,Finished
+2021,9,Pierre Gasly,6,9,Finished
+2021,9,Fernando Alonso,14,10,+1 Lap
+2021,9,George Russell,8,11,+1 Lap
+2021,9,Yuki Tsunoda,7,12,+1 Lap
+2021,9,Lance Stroll,9,13,+1 Lap
+2021,9,Antonio Giovinazzi,15,14,+1 Lap
+2021,9,Kimi Räikkönen,16,15,+1 Lap
+2021,9,Nicholas Latifi,18,16,+1 Lap
+2021,9,Sebastian Vettel,11,17,Collision
+2021,9,Mick Schumacher,19,18,+2 Laps
+2021,9,Nikita Mazepin,20,19,+2 Laps
+2021,9,Esteban Ocon,17,20,Collision
+2021,10,Lewis Hamilton,2,1,Finished
+2021,10,Charles Leclerc,4,2,Finished
+2021,10,Valtteri Bottas,3,3,Finished
+2021,10,Lando Norris,5,4,Finished
+2021,10,Daniel Ricciardo,6,5,Finished
+2021,10,Carlos Sainz,10,6,Finished
+2021,10,Fernando Alonso,7,7,Finished
+2021,10,Lance Stroll,14,8,Finished
+2021,10,Esteban Ocon,9,9,Finished
+2021,10,Yuki Tsunoda,16,10,Finished
+2021,10,Pierre Gasly,11,11,Finished
+2021,10,George Russell,12,12,+1 Lap
+2021,10,Antonio Giovinazzi,15,13,+1 Lap
+2021,10,Nicholas Latifi,17,14,+1 Lap
+2021,10,Kimi Räikkönen,13,15,+1 Lap
+2021,10,Sergio Pérez,0,16,+1 Lap
+2021,10,Nikita Mazepin,19,17,+1 Lap
+2021,10,Mick Schumacher,18,18,+1 Lap
+2021,10,Sebastian Vettel,8,19,Retired
+2021,10,Max Verstappen,1,20,Collision
+2021,11,Esteban Ocon,8,1,Finished
+2021,11,Lewis Hamilton,1,2,Finished
+2021,11,Carlos Sainz,15,3,Finished
+2021,11,Fernando Alonso,9,4,Finished
+2021,11,Pierre Gasly,5,5,Finished
+2021,11,Yuki Tsunoda,16,6,Finished
+2021,11,Nicholas Latifi,18,7,Finished
+2021,11,George Russell,17,8,Finished
+2021,11,Max Verstappen,3,9,Finished
+2021,11,Kimi Räikkönen,13,10,+1 Lap
+2021,11,Daniel Ricciardo,11,11,+1 Lap
+2021,11,Mick Schumacher,20,12,+1 Lap
+2021,11,Antonio Giovinazzi,0,13,+1 Lap
+2021,11,Nikita Mazepin,19,14,Collision
+2021,11,Lando Norris,6,15,Collision
+2021,11,Valtteri Bottas,2,16,Collision
+2021,11,Sergio Pérez,4,17,Collision
+2021,11,Charles Leclerc,7,18,Collision
+2021,11,Lance Stroll,12,19,Collision
+2021,11,Sebastian Vettel,10,20,Disqualified
+2021,12,Max Verstappen,1,1,Finished
+2021,12,George Russell,2,2,Finished
+2021,12,Lewis Hamilton,3,3,Finished
+2021,12,Daniel Ricciardo,4,4,Finished
+2021,12,Sebastian Vettel,5,5,Finished
+2021,12,Pierre Gasly,6,6,Finished
+2021,12,Esteban Ocon,8,7,Finished
+2021,12,Charles Leclerc,9,8,Finished
+2021,12,Nicholas Latifi,10,9,Finished
+2021,12,Carlos Sainz,11,10,Finished
+2021,12,Fernando Alonso,12,11,Finished
+2021,12,Valtteri Bottas,13,12,Finished
+2021,12,Antonio Giovinazzi,14,13,Finished
+2021,12,Lando Norris,15,14,Finished
+2021,12,Yuki Tsunoda,16,15,Finished
+2021,12,Mick Schumacher,17,16,Finished
+2021,12,Nikita Mazepin,18,17,Finished
+2021,12,Kimi Räikkönen,0,18,Finished
+2021,12,Sergio Pérez,0,19,Finished
+2021,12,Lance Stroll,19,20,Finished
+2021,13,Max Verstappen,1,1,Finished
+2021,13,Lewis Hamilton,2,2,Finished
+2021,13,Valtteri Bottas,3,3,Finished
+2021,13,Pierre Gasly,4,4,+1 Lap
+2021,13,Charles Leclerc,5,5,+1 Lap
+2021,13,Fernando Alonso,9,6,+1 Lap
+2021,13,Carlos Sainz,6,7,+1 Lap
+2021,13,Sergio Pérez,0,8,+1 Lap
+2021,13,Esteban Ocon,8,9,+1 Lap
+2021,13,Lando Norris,13,10,+1 Lap
+2021,13,Daniel Ricciardo,10,11,+1 Lap
+2021,13,Lance Stroll,12,12,+2 Laps
+2021,13,Sebastian Vettel,15,13,+2 Laps
+2021,13,Antonio Giovinazzi,7,14,+2 Laps
+2021,13,Robert Kubica,16,15,+2 Laps
+2021,13,Nicholas Latifi,0,16,+2 Laps
+2021,13,George Russell,11,17,Gearbox
+2021,13,Mick Schumacher,17,18,+3 Laps
+2021,13,Yuki Tsunoda,14,19,Power Unit
+2021,13,Nikita Mazepin,18,20,Hydraulics
+2021,14,Daniel Ricciardo,2,1,Finished
+2021,14,Lando Norris,3,2,Finished
+2021,14,Valtteri Bottas,19,3,Finished
+2021,14,Charles Leclerc,5,4,Finished
+2021,14,Sergio Pérez,8,5,Finished
+2021,14,Carlos Sainz,6,6,Finished
+2021,14,Lance Stroll,9,7,Finished
+2021,14,Fernando Alonso,10,8,Finished
+2021,14,George Russell,14,9,Finished
+2021,14,Esteban Ocon,12,10,Finished
+2021,14,Nicholas Latifi,13,11,Finished
+2021,14,Sebastian Vettel,11,12,Finished
+2021,14,Antonio Giovinazzi,7,13,Finished
+2021,14,Robert Kubica,17,14,Finished
+2021,14,Mick Schumacher,18,15,Finished
+2021,14,Nikita Mazepin,16,16,Power Unit
+2021,14,Lewis Hamilton,4,17,Collision
+2021,14,Max Verstappen,1,18,Collision
+2021,14,Pierre Gasly,0,19,Suspension
+2021,14,Yuki Tsunoda,0,20,Brakes
+2021,15,Lewis Hamilton,4,1,Finished
+2021,15,Max Verstappen,20,2,Finished
+2021,15,Carlos Sainz,2,3,Finished
+2021,15,Daniel Ricciardo,5,4,Finished
+2021,15,Valtteri Bottas,16,5,Finished
+2021,15,Fernando Alonso,6,6,Finished
+2021,15,Lando Norris,1,7,Finished
+2021,15,Kimi Räikkönen,13,8,Finished
+2021,15,Sergio Pérez,8,9,Finished
+2021,15,George Russell,3,10,Finished
+2021,15,Lance Stroll,7,11,Finished
+2021,15,Sebastian Vettel,10,12,+1 Lap
+2021,15,Pierre Gasly,11,13,+1 Lap
+2021,15,Esteban Ocon,9,14,+1 Lap
+2021,15,Charles Leclerc,19,15,+1 Lap
+2021,15,Antonio Giovinazzi,17,16,+1 Lap
+2021,15,Yuki Tsunoda,12,17,+1 Lap
+2021,15,Nikita Mazepin,15,18,+2 Laps
+2021,15,Nicholas Latifi,18,19,Accident
+2021,15,Mick Schumacher,14,20,Oil leak
+2021,16,Valtteri Bottas,1,1,Finished
+2021,16,Max Verstappen,2,2,Finished
+2021,16,Sergio Pérez,6,3,Finished
+2021,16,Charles Leclerc,3,4,Finished
+2021,16,Lewis Hamilton,11,5,Finished
+2021,16,Pierre Gasly,4,6,Finished
+2021,16,Lando Norris,7,7,Finished
+2021,16,Carlos Sainz,19,8,Finished
+2021,16,Lance Stroll,8,9,Finished
+2021,16,Esteban Ocon,12,10,+1 Lap
+2021,16,Antonio Giovinazzi,16,11,+1 Lap
+2021,16,Kimi Räikkönen,17,12,+1 Lap
+2021,16,Daniel Ricciardo,20,13,+1 Lap
+2021,16,Yuki Tsunoda,9,14,+1 Lap
+2021,16,George Russell,13,15,+1 Lap
+2021,16,Fernando Alonso,5,16,+1 Lap
+2021,16,Nicholas Latifi,15,17,+1 Lap
+2021,16,Sebastian Vettel,10,18,+1 Lap
+2021,16,Mick Schumacher,14,19,+2 Laps
+2021,16,Nikita Mazepin,18,20,+2 Laps
+2021,17,Max Verstappen,1,1,Finished
+2021,17,Lewis Hamilton,2,2,Finished
+2021,17,Sergio Pérez,3,3,Finished
+2021,17,Charles Leclerc,4,4,Finished
+2021,17,Daniel Ricciardo,6,5,Finished
+2021,17,Valtteri Bottas,9,6,Finished
+2021,17,Carlos Sainz,5,7,Finished
+2021,17,Lando Norris,7,8,Finished
+2021,17,Yuki Tsunoda,10,9,+1 Lap
+2021,17,Sebastian Vettel,18,10,+1 Lap
+2021,17,Antonio Giovinazzi,12,11,+1 Lap
+2021,17,Lance Stroll,13,12,+1 Lap
+2021,17,Kimi Räikkönen,15,13,+1 Lap
+2021,17,George Russell,20,14,+1 Lap
+2021,17,Nicholas Latifi,14,15,+1 Lap
+2021,17,Mick Schumacher,16,16,+2 Laps
+2021,17,Nikita Mazepin,17,17,+2 Laps
+2021,17,Fernando Alonso,19,18,Rear wing
+2021,17,Esteban Ocon,11,19,Mechanical
+2021,17,Pierre Gasly,8,20,Suspension
+2021,18,Max Verstappen,3,1,Finished
+2021,18,Lewis Hamilton,2,2,Finished
+2021,18,Sergio Pérez,4,3,Finished
+2021,18,Pierre Gasly,5,4,Finished
+2021,18,Charles Leclerc,8,5,Finished
+2021,18,Carlos Sainz,6,6,+1 Lap
+2021,18,Sebastian Vettel,9,7,+1 Lap
+2021,18,Kimi Räikkönen,10,8,+1 Lap
+2021,18,Fernando Alonso,12,9,+1 Lap
+2021,18,Lando Norris,18,10,+1 Lap
+2021,18,Antonio Giovinazzi,11,11,+1 Lap
+2021,18,Daniel Ricciardo,7,12,+1 Lap
+2021,18,Esteban Ocon,19,13,+1 Lap
+2021,18,Lance Stroll,20,14,+2 Laps
+2021,18,Valtteri Bottas,1,15,+2 Laps
+2021,18,George Russell,16,16,+2 Laps
+2021,18,Nicholas Latifi,13,17,+2 Laps
+2021,18,Nikita Mazepin,15,18,+3 Laps
+2021,18,Mick Schumacher,14,19,Collision
+2021,18,Yuki Tsunoda,17,20,Collision
+2021,19,Lewis Hamilton,10,1,Finished
+2021,19,Max Verstappen,2,2,Finished
+2021,19,Valtteri Bottas,1,3,Finished
+2021,19,Sergio Pérez,4,4,Finished
+2021,19,Charles Leclerc,6,5,Finished
+2021,19,Carlos Sainz,3,6,Finished
+2021,19,Pierre Gasly,7,7,+1 Lap
+2021,19,Esteban Ocon,8,8,+1 Lap
+2021,19,Fernando Alonso,12,9,+1 Lap
+2021,19,Lando Norris,5,10,+1 Lap
+2021,19,Sebastian Vettel,9,11,+1 Lap
+2021,19,Kimi Räikkönen,0,12,+1 Lap
+2021,19,George Russell,17,13,+1 Lap
+2021,19,Antonio Giovinazzi,13,14,+1 Lap
+2021,19,Yuki Tsunoda,15,15,+1 Lap
+2021,19,Nicholas Latifi,16,16,+1 Lap
+2021,19,Nikita Mazepin,19,17,+2 Laps
+2021,19,Mick Schumacher,18,18,+2 Laps
+2021,19,Daniel Ricciardo,11,19,Power loss
+2021,19,Lance Stroll,14,20,Collision damage
+2021,20,Lewis Hamilton,1,1,Finished
+2021,20,Max Verstappen,7,2,Finished
+2021,20,Fernando Alonso,3,3,Finished
+2021,20,Sergio Pérez,11,4,Finished
+2021,20,Esteban Ocon,9,5,Finished
+2021,20,Lance Stroll,12,6,Finished
+2021,20,Carlos Sainz,5,7,Finished
+2021,20,Charles Leclerc,13,8,Finished
+2021,20,Lando Norris,4,9,+1 Lap
+2021,20,Sebastian Vettel,10,10,+1 Lap
+2021,20,Pierre Gasly,2,11,+1 Lap
+2021,20,Daniel Ricciardo,14,12,+1 Lap
+2021,20,Yuki Tsunoda,8,13,+1 Lap
+2021,20,Kimi Räikkönen,16,14,+1 Lap
+2021,20,Antonio Giovinazzi,18,15,+1 Lap
+2021,20,Mick Schumacher,19,16,+1 Lap
+2021,20,George Russell,15,17,+2 Laps
+2021,20,Nikita Mazepin,20,18,+2 Laps
+2021,20,Nicholas Latifi,17,19,Puncture
+2021,20,Valtteri Bottas,6,20,Damage
+2021,21,Lewis Hamilton,1,1,Finished
+2021,21,Max Verstappen,3,2,Finished
+2021,21,Valtteri Bottas,2,3,Finished
+2021,21,Esteban Ocon,9,4,Finished
+2021,21,Daniel Ricciardo,11,5,Finished
+2021,21,Pierre Gasly,6,6,Finished
+2021,21,Charles Leclerc,4,7,Finished
+2021,21,Carlos Sainz,15,8,Finished
+2021,21,Antonio Giovinazzi,10,9,Finished
+2021,21,Lando Norris,7,10,Finished
+2021,21,Lance Stroll,18,11,Finished
+2021,21,Nicholas Latifi,16,12,Finished
+2021,21,Fernando Alonso,13,13,+1 Lap
+2021,21,Yuki Tsunoda,8,14,+1 Lap
+2021,21,Kimi Räikkönen,12,15,+1 Lap
+2021,21,Sebastian Vettel,17,16,Collision damage
+2021,21,Sergio Pérez,5,17,Collision
+2021,21,Nikita Mazepin,20,18,Collision
+2021,21,George Russell,14,19,Collision
+2021,21,Mick Schumacher,19,20,Accident
+2021,22,Max Verstappen,1,1,Finished
+2021,22,Lewis Hamilton,2,2,Finished
+2021,22,Carlos Sainz,5,3,Finished
+2021,22,Yuki Tsunoda,8,4,Finished
+2021,22,Pierre Gasly,12,5,Finished
+2021,22,Valtteri Bottas,6,6,Finished
+2021,22,Lando Norris,3,7,Finished
+2021,22,Fernando Alonso,11,8,Finished
+2021,22,Esteban Ocon,9,9,Finished
+2021,22,Charles Leclerc,7,10,Finished
+2021,22,Sebastian Vettel,15,11,Finished
+2021,22,Daniel Ricciardo,10,12,+1 Lap
+2021,22,Lance Stroll,13,13,+1 Lap
+2021,22,Mick Schumacher,19,14,+1 Lap
+2021,22,Sergio Pérez,4,15,Engine
+2021,22,Nicholas Latifi,16,16,Accident
+2021,22,Antonio Giovinazzi,14,17,Gearbox
+2021,22,George Russell,17,18,Gearbox
+2021,22,Kimi Räikkönen,18,19,Brakes
+2021,22,Nikita Mazepin,20,20,Illness
+2022,1,Charles Leclerc,1,1,Finished
+2022,1,Carlos Sainz,3,2,Finished
+2022,1,Lewis Hamilton,5,3,Finished
+2022,1,George Russell,9,4,Finished
+2022,1,Kevin Magnussen,7,5,Finished
+2022,1,Valtteri Bottas,6,6,Finished
+2022,1,Esteban Ocon,11,7,Finished
+2022,1,Yuki Tsunoda,16,8,Finished
+2022,1,Fernando Alonso,8,9,Finished
+2022,1,Guanyu Zhou,15,10,Finished
+2022,1,Mick Schumacher,12,11,Finished
+2022,1,Lance Stroll,19,12,Finished
+2022,1,Alexander Albon,14,13,Finished
+2022,1,Daniel Ricciardo,18,14,Finished
+2022,1,Lando Norris,13,15,Finished
+2022,1,Nicholas Latifi,20,16,Finished
+2022,1,Nico Hülkenberg,17,17,Finished
+2022,1,Sergio Pérez,4,18,Fuel pressure
+2022,1,Max Verstappen,2,19,Fuel pressure
+2022,1,Pierre Gasly,10,20,Power Unit
+2022,2,Max Verstappen,4,1,Finished
+2022,2,Charles Leclerc,2,2,Finished
+2022,2,Carlos Sainz,3,3,Finished
+2022,2,Sergio Pérez,1,4,Finished
+2022,2,George Russell,6,5,Finished
+2022,2,Esteban Ocon,5,6,Finished
+2022,2,Lando Norris,11,7,Finished
+2022,2,Pierre Gasly,9,8,Finished
+2022,2,Kevin Magnussen,10,9,Finished
+2022,2,Lewis Hamilton,15,10,Finished
+2022,2,Guanyu Zhou,12,11,Finished
+2022,2,Nico Hülkenberg,17,12,Finished
+2022,2,Lance Stroll,13,13,+1 Lap
+2022,2,Alexander Albon,16,14,Collision damage
+2022,2,Valtteri Bottas,8,15,Cooling system
+2022,2,Fernando Alonso,7,16,Water pump
+2022,2,Daniel Ricciardo,14,17,Gearbox
+2022,2,Nicholas Latifi,18,18,Accident
+2022,2,Yuki Tsunoda,19,19,Power Unit
+2022,2,Mick Schumacher,0,20,Withdrew
+2022,3,Charles Leclerc,1,1,Finished
+2022,3,Sergio Pérez,3,2,Finished
+2022,3,George Russell,6,3,Finished
+2022,3,Lewis Hamilton,5,4,Finished
+2022,3,Lando Norris,4,5,Finished
+2022,3,Daniel Ricciardo,7,6,Finished
+2022,3,Esteban Ocon,8,7,Finished
+2022,3,Valtteri Bottas,12,8,Finished
+2022,3,Pierre Gasly,11,9,Finished
+2022,3,Alexander Albon,20,10,Finished
+2022,3,Guanyu Zhou,14,11,Finished
+2022,3,Lance Stroll,19,12,Finished
+2022,3,Mick Schumacher,15,13,+1 Lap
+2022,3,Kevin Magnussen,16,14,+1 Lap
+2022,3,Yuki Tsunoda,13,15,+1 Lap
+2022,3,Nicholas Latifi,18,16,+1 Lap
+2022,3,Fernando Alonso,10,17,+1 Lap
+2022,3,Max Verstappen,2,18,Fuel leak
+2022,3,Sebastian Vettel,17,19,Accident
+2022,3,Carlos Sainz,9,20,Spun off
+2022,4,Max Verstappen,1,1,Finished
+2022,4,Sergio Pérez,3,2,Finished
+2022,4,Lando Norris,5,3,Finished
+2022,4,George Russell,11,4,Finished
+2022,4,Valtteri Bottas,7,5,Finished
+2022,4,Charles Leclerc,2,6,Finished
+2022,4,Yuki Tsunoda,12,7,Finished
+2022,4,Sebastian Vettel,13,8,Finished
+2022,4,Kevin Magnussen,8,9,Finished
+2022,4,Lance Stroll,15,10,+1 Lap
+2022,4,Alexander Albon,18,11,+1 Lap
+2022,4,Pierre Gasly,17,12,+1 Lap
+2022,4,Lewis Hamilton,14,13,+1 Lap
+2022,4,Esteban Ocon,16,14,+1 Lap
+2022,4,Guanyu Zhou,0,15,+1 Lap
+2022,4,Nicholas Latifi,19,16,+1 Lap
+2022,4,Mick Schumacher,10,17,+1 Lap
+2022,4,Daniel Ricciardo,6,18,+1 Lap
+2022,4,Fernando Alonso,9,19,Collision damage
+2022,4,Carlos Sainz,4,20,Collision
+2022,5,Max Verstappen,3,1,Finished
+2022,5,Charles Leclerc,1,2,Finished
+2022,5,Carlos Sainz,2,3,Finished
+2022,5,Sergio Pérez,4,4,Finished
+2022,5,George Russell,12,5,Finished
+2022,5,Lewis Hamilton,6,6,Finished
+2022,5,Valtteri Bottas,5,7,Finished
+2022,5,Esteban Ocon,20,8,Finished
+2022,5,Alexander Albon,18,9,Finished
+2022,5,Lance Stroll,0,10,Finished
+2022,5,Fernando Alonso,11,11,Finished
+2022,5,Yuki Tsunoda,9,12,Finished
+2022,5,Daniel Ricciardo,14,13,Finished
+2022,5,Nicholas Latifi,19,14,Finished
+2022,5,Mick Schumacher,15,15,Finished
+2022,5,Kevin Magnussen,16,16,Front wing
+2022,5,Sebastian Vettel,0,17,Collision
+2022,5,Pierre Gasly,7,18,Suspension
+2022,5,Lando Norris,8,19,Collision
+2022,5,Guanyu Zhou,17,20,Water leak
+2022,6,Max Verstappen,2,1,Finished
+2022,6,Sergio Pérez,5,2,Finished
+2022,6,George Russell,4,3,Finished
+2022,6,Carlos Sainz,3,4,Finished
+2022,6,Lewis Hamilton,6,5,Finished
+2022,6,Valtteri Bottas,7,6,Finished
+2022,6,Esteban Ocon,12,7,Finished
+2022,6,Lando Norris,11,8,Finished
+2022,6,Fernando Alonso,20,9,+1 Lap
+2022,6,Yuki Tsunoda,13,10,+1 Lap
+2022,6,Sebastian Vettel,16,11,+1 Lap
+2022,6,Daniel Ricciardo,9,12,+1 Lap
+2022,6,Pierre Gasly,14,13,+1 Lap
+2022,6,Mick Schumacher,10,14,+1 Lap
+2022,6,Lance Stroll,17,15,+1 Lap
+2022,6,Nicholas Latifi,19,16,+2 Laps
+2022,6,Kevin Magnussen,8,17,+2 Laps
+2022,6,Alexander Albon,18,18,+2 Laps
+2022,6,Guanyu Zhou,15,19,Power loss
+2022,6,Charles Leclerc,1,20,Turbo
+2022,7,Sergio Pérez,3,1,Finished
+2022,7,Carlos Sainz,2,2,Finished
+2022,7,Max Verstappen,4,3,Finished
+2022,7,Charles Leclerc,1,4,Finished
+2022,7,George Russell,6,5,Finished
+2022,7,Lando Norris,5,6,Finished
+2022,7,Fernando Alonso,7,7,Finished
+2022,7,Lewis Hamilton,8,8,Finished
+2022,7,Valtteri Bottas,12,9,Finished
+2022,7,Sebastian Vettel,9,10,Finished
+2022,7,Pierre Gasly,17,11,Finished
+2022,7,Esteban Ocon,10,12,Finished
+2022,7,Daniel Ricciardo,14,13,Finished
+2022,7,Lance Stroll,18,14,Finished
+2022,7,Nicholas Latifi,19,15,+1 Lap
+2022,7,Guanyu Zhou,20,16,+1 Lap
+2022,7,Yuki Tsunoda,11,17,+1 Lap
+2022,7,Alexander Albon,16,18,Mechanical
+2022,7,Mick Schumacher,15,19,Accident
+2022,7,Kevin Magnussen,13,20,Water pressure
+2022,8,Max Verstappen,3,1,Finished
+2022,8,Sergio Pérez,2,2,Finished
+2022,8,George Russell,5,3,Finished
+2022,8,Lewis Hamilton,7,4,Finished
+2022,8,Pierre Gasly,6,5,Finished
+2022,8,Sebastian Vettel,9,6,Finished
+2022,8,Fernando Alonso,10,7,Finished
+2022,8,Daniel Ricciardo,12,8,Finished
+2022,8,Lando Norris,11,9,Finished
+2022,8,Esteban Ocon,13,10,Finished
+2022,8,Valtteri Bottas,15,11,+1 Lap
+2022,8,Alexander Albon,17,12,+1 Lap
+2022,8,Yuki Tsunoda,8,13,+1 Lap
+2022,8,Mick Schumacher,20,14,+1 Lap
+2022,8,Nicholas Latifi,18,15,+1 Lap
+2022,8,Lance Stroll,19,16,Vibrations
+2022,8,Kevin Magnussen,16,17,Power Unit
+2022,8,Guanyu Zhou,14,18,Hydraulics
+2022,8,Charles Leclerc,1,19,Power Unit
+2022,8,Carlos Sainz,4,20,Hydraulics
+2022,9,Max Verstappen,1,1,Finished
+2022,9,Carlos Sainz,3,2,Finished
+2022,9,Lewis Hamilton,4,3,Finished
+2022,9,George Russell,8,4,Finished
+2022,9,Charles Leclerc,19,5,Finished
+2022,9,Esteban Ocon,7,6,Finished
+2022,9,Valtteri Bottas,11,7,Finished
+2022,9,Guanyu Zhou,10,8,Finished
+2022,9,Fernando Alonso,2,9,Finished
+2022,9,Lance Stroll,17,10,Finished
+2022,9,Daniel Ricciardo,9,11,Finished
+2022,9,Sebastian Vettel,16,12,Finished
+2022,9,Alexander Albon,12,13,Finished
+2022,9,Pierre Gasly,15,14,Finished
+2022,9,Lando Norris,14,15,Finished
+2022,9,Nicholas Latifi,18,16,Finished
+2022,9,Kevin Magnussen,5,17,Finished
+2022,9,Yuki Tsunoda,20,18,Accident
+2022,9,Mick Schumacher,6,19,Engine
+2022,9,Sergio Pérez,13,20,Gearbox
+2022,10,Carlos Sainz,1,1,Finished
+2022,10,Sergio Pérez,4,2,Finished
+2022,10,Lewis Hamilton,5,3,Finished
+2022,10,Charles Leclerc,3,4,Finished
+2022,10,Fernando Alonso,7,5,Finished
+2022,10,Lando Norris,6,6,Finished
+2022,10,Max Verstappen,2,7,Finished
+2022,10,Mick Schumacher,19,8,Finished
+2022,10,Sebastian Vettel,18,9,Finished
+2022,10,Kevin Magnussen,17,10,Finished
+2022,10,Lance Stroll,20,11,Finished
+2022,10,Nicholas Latifi,10,12,Finished
+2022,10,Daniel Ricciardo,14,13,Finished
+2022,10,Yuki Tsunoda,13,14,Finished
+2022,10,Esteban Ocon,15,15,Fuel pump
+2022,10,Pierre Gasly,11,16,Collision damage
+2022,10,Valtteri Bottas,12,17,Gearbox
+2022,10,George Russell,8,18,Collision
+2022,10,Guanyu Zhou,9,19,Collision
+2022,10,Alexander Albon,16,20,Collision
+2022,11,Charles Leclerc,2,1,Finished
+2022,11,Max Verstappen,1,2,Finished
+2022,11,Lewis Hamilton,8,3,Finished
+2022,11,George Russell,4,4,Finished
+2022,11,Esteban Ocon,6,5,Finished
+2022,11,Mick Schumacher,9,6,+1 Lap
+2022,11,Lando Norris,10,7,+1 Lap
+2022,11,Kevin Magnussen,7,8,+1 Lap
+2022,11,Daniel Ricciardo,11,9,+1 Lap
+2022,11,Fernando Alonso,19,10,+1 Lap
+2022,11,Valtteri Bottas,0,11,+1 Lap
+2022,11,Alexander Albon,15,12,+1 Lap
+2022,11,Lance Stroll,12,13,+1 Lap
+2022,11,Guanyu Zhou,13,14,+1 Lap
+2022,11,Pierre Gasly,14,15,+1 Lap
+2022,11,Yuki Tsunoda,16,16,+1 Lap
+2022,11,Sebastian Vettel,18,17,+1 Lap
+2022,11,Carlos Sainz,3,18,Power Unit
+2022,11,Nicholas Latifi,17,19,Undertray
+2022,11,Sergio Pérez,5,20,Collision damage
+2022,12,Max Verstappen,2,1,Finished
+2022,12,Lewis Hamilton,4,2,Finished
+2022,12,George Russell,6,3,Finished
+2022,12,Sergio Pérez,3,4,Finished
+2022,12,Carlos Sainz,19,5,Finished
+2022,12,Fernando Alonso,7,6,Finished
+2022,12,Lando Norris,5,7,Finished
+2022,12,Esteban Ocon,10,8,Finished
+2022,12,Daniel Ricciardo,9,9,Finished
+2022,12,Lance Stroll,15,10,Finished
+2022,12,Sebastian Vettel,12,11,Finished
+2022,12,Pierre Gasly,14,12,Finished
+2022,12,Alexander Albon,13,13,Finished
+2022,12,Valtteri Bottas,11,14,Finished
+2022,12,Mick Schumacher,17,15,Finished
+2022,12,Guanyu Zhou,16,16,+6 Laps
+2022,12,Nicholas Latifi,18,17,Collision damage
+2022,12,Kevin Magnussen,20,18,Collision damage
+2022,12,Charles Leclerc,1,19,Accident
+2022,12,Yuki Tsunoda,8,20,Undertray
+2022,13,Max Verstappen,10,1,Finished
+2022,13,Lewis Hamilton,7,2,Finished
+2022,13,George Russell,1,3,Finished
+2022,13,Carlos Sainz,2,4,Finished
+2022,13,Sergio Pérez,11,5,Finished
+2022,13,Charles Leclerc,3,6,Finished
+2022,13,Lando Norris,4,7,Finished
+2022,13,Fernando Alonso,6,8,+1 Lap
+2022,13,Esteban Ocon,5,9,+1 Lap
+2022,13,Sebastian Vettel,18,10,+1 Lap
+2022,13,Lance Stroll,14,11,+1 Lap
+2022,13,Pierre Gasly,0,12,+1 Lap
+2022,13,Guanyu Zhou,12,13,+1 Lap
+2022,13,Mick Schumacher,15,14,+1 Lap
+2022,13,Daniel Ricciardo,9,15,+1 Lap
+2022,13,Kevin Magnussen,13,16,+1 Lap
+2022,13,Alexander Albon,17,17,+1 Lap
+2022,13,Nicholas Latifi,19,18,+1 Lap
+2022,13,Yuki Tsunoda,16,19,+2 Laps
+2022,13,Valtteri Bottas,8,20,Power Unit
+2022,14,Max Verstappen,14,1,Finished
+2022,14,Sergio Pérez,2,2,Finished
+2022,14,Carlos Sainz,1,3,Finished
+2022,14,George Russell,5,4,Finished
+2022,14,Fernando Alonso,3,5,Finished
+2022,14,Charles Leclerc,15,6,Finished
+2022,14,Esteban Ocon,16,7,Finished
+2022,14,Sebastian Vettel,10,8,Finished
+2022,14,Pierre Gasly,0,9,Finished
+2022,14,Alexander Albon,6,10,Finished
+2022,14,Lance Stroll,9,11,Finished
+2022,14,Lando Norris,17,12,Finished
+2022,14,Yuki Tsunoda,0,13,Finished
+2022,14,Guanyu Zhou,18,14,Finished
+2022,14,Daniel Ricciardo,7,15,Finished
+2022,14,Kevin Magnussen,12,16,+1 Lap
+2022,14,Mick Schumacher,19,17,+1 Lap
+2022,14,Nicholas Latifi,11,18,+1 Lap
+2022,14,Valtteri Bottas,13,19,Accident
+2022,14,Lewis Hamilton,4,20,Collision damage
+2022,15,Max Verstappen,1,1,Finished
+2022,15,George Russell,6,2,Finished
+2022,15,Charles Leclerc,2,3,Finished
+2022,15,Lewis Hamilton,4,4,Finished
+2022,15,Sergio Pérez,5,5,Finished
+2022,15,Fernando Alonso,13,6,Finished
+2022,15,Lando Norris,7,7,Finished
+2022,15,Carlos Sainz,3,8,Finished
+2022,15,Esteban Ocon,12,9,Finished
+2022,15,Lance Stroll,10,10,Finished
+2022,15,Pierre Gasly,11,11,Finished
+2022,15,Alexander Albon,15,12,Finished
+2022,15,Mick Schumacher,8,13,Finished
+2022,15,Sebastian Vettel,19,14,Finished
+2022,15,Kevin Magnussen,18,15,Finished
+2022,15,Guanyu Zhou,14,16,Finished
+2022,15,Daniel Ricciardo,17,17,Finished
+2022,15,Nicholas Latifi,20,18,+1 Lap
+2022,15,Valtteri Bottas,16,19,Engine
+2022,15,Yuki Tsunoda,9,20,Differential
+2022,16,Max Verstappen,7,1,Finished
+2022,16,Charles Leclerc,1,2,Finished
+2022,16,George Russell,2,3,Finished
+2022,16,Carlos Sainz,18,4,Finished
+2022,16,Lewis Hamilton,19,5,Finished
+2022,16,Sergio Pérez,13,6,Finished
+2022,16,Lando Norris,3,7,Finished
+2022,16,Pierre Gasly,5,8,Finished
+2022,16,Nyck de Vries,8,9,Finished
+2022,16,Guanyu Zhou,9,10,Finished
+2022,16,Esteban Ocon,14,11,Finished
+2022,16,Mick Schumacher,17,12,Finished
+2022,16,Valtteri Bottas,15,13,+1 Lap
+2022,16,Yuki Tsunoda,20,14,+1 Lap
+2022,16,Nicholas Latifi,10,15,+1 Lap
+2022,16,Kevin Magnussen,16,16,+1 Lap
+2022,16,Daniel Ricciardo,4,17,Oil leak
+2022,16,Lance Stroll,12,18,Engine
+2022,16,Fernando Alonso,6,19,Water pressure
+2022,16,Sebastian Vettel,11,20,Engine
+2022,17,Sergio Pérez,2,1,Finished
+2022,17,Charles Leclerc,1,2,Finished
+2022,17,Carlos Sainz,4,3,Finished
+2022,17,Lando Norris,6,4,Finished
+2022,17,Daniel Ricciardo,16,5,Finished
+2022,17,Lance Stroll,11,6,Finished
+2022,17,Max Verstappen,8,7,Finished
+2022,17,Sebastian Vettel,13,8,Finished
+2022,17,Lewis Hamilton,3,9,Finished
+2022,17,Pierre Gasly,7,10,Finished
+2022,17,Valtteri Bottas,15,11,Finished
+2022,17,Kevin Magnussen,9,12,Finished
+2022,17,Mick Schumacher,12,13,+1 Lap
+2022,17,George Russell,0,14,+2 Laps
+2022,17,Yuki Tsunoda,10,15,Accident
+2022,17,Esteban Ocon,17,16,Engine
+2022,17,Alexander Albon,18,17,Collision damage
+2022,17,Fernando Alonso,5,18,Engine
+2022,17,Nicholas Latifi,19,19,Collision damage
+2022,17,Guanyu Zhou,14,20,Collision
+2022,18,Max Verstappen,1,1,Finished
+2022,18,Sergio Pérez,4,2,Finished
+2022,18,Charles Leclerc,2,3,Finished
+2022,18,Esteban Ocon,5,4,Finished
+2022,18,Lewis Hamilton,6,5,Finished
+2022,18,Sebastian Vettel,9,6,Finished
+2022,18,Fernando Alonso,7,7,Finished
+2022,18,George Russell,8,8,Finished
+2022,18,Nicholas Latifi,20,9,Finished
+2022,18,Lando Norris,10,10,Finished
+2022,18,Daniel Ricciardo,11,11,Finished
+2022,18,Lance Stroll,19,12,Finished
+2022,18,Yuki Tsunoda,13,13,Finished
+2022,18,Kevin Magnussen,18,14,Finished
+2022,18,Valtteri Bottas,12,15,Finished
+2022,18,Guanyu Zhou,14,16,Finished
+2022,18,Mick Schumacher,15,17,Finished
+2022,18,Pierre Gasly,17,18,Finished
+2022,18,Carlos Sainz,3,19,Accident
+2022,18,Alexander Albon,16,20,Hydraulics
+2022,19,Max Verstappen,2,1,Finished
+2022,19,Lewis Hamilton,3,2,Finished
+2022,19,Charles Leclerc,12,3,Finished
+2022,19,Sergio Pérez,9,4,Finished
+2022,19,George Russell,4,5,Finished
+2022,19,Lando Norris,6,6,Finished
+2022,19,Fernando Alonso,14,7,Finished
+2022,19,Sebastian Vettel,10,8,Finished
+2022,19,Kevin Magnussen,13,9,Finished
+2022,19,Yuki Tsunoda,19,10,Finished
+2022,19,Esteban Ocon,0,11,Finished
+2022,19,Guanyu Zhou,18,12,Finished
+2022,19,Alexander Albon,8,13,Finished
+2022,19,Pierre Gasly,11,14,Finished
+2022,19,Mick Schumacher,16,15,Finished
+2022,19,Daniel Ricciardo,15,16,Finished
+2022,19,Nicholas Latifi,17,17,Finished
+2022,19,Lance Stroll,5,18,Collision
+2022,19,Valtteri Bottas,7,19,Spun off
+2022,19,Carlos Sainz,1,20,Collision damage
+2022,20,Max Verstappen,1,1,Finished
+2022,20,Lewis Hamilton,3,2,Finished
+2022,20,Sergio Pérez,4,3,Finished
+2022,20,George Russell,2,4,Finished
+2022,20,Carlos Sainz,5,5,Finished
+2022,20,Charles Leclerc,7,6,Finished
+2022,20,Daniel Ricciardo,11,7,+1 Lap
+2022,20,Esteban Ocon,10,8,+1 Lap
+2022,20,Lando Norris,8,9,+1 Lap
+2022,20,Valtteri Bottas,6,10,+1 Lap
+2022,20,Pierre Gasly,14,11,+1 Lap
+2022,20,Alexander Albon,17,12,+1 Lap
+2022,20,Guanyu Zhou,12,13,+1 Lap
+2022,20,Sebastian Vettel,16,14,+1 Lap
+2022,20,Lance Stroll,20,15,+1 Lap
+2022,20,Mick Schumacher,15,16,+1 Lap
+2022,20,Kevin Magnussen,19,17,+1 Lap
+2022,20,Nicholas Latifi,18,18,+2 Laps
+2022,20,Fernando Alonso,9,19,Engine
+2022,20,Yuki Tsunoda,13,20,Collision damage
+2022,21,George Russell,1,1,Finished
+2022,21,Lewis Hamilton,2,2,Finished
+2022,21,Carlos Sainz,7,3,Finished
+2022,21,Charles Leclerc,5,4,Finished
+2022,21,Fernando Alonso,17,5,Finished
+2022,21,Max Verstappen,3,6,Finished
+2022,21,Sergio Pérez,4,7,Finished
+2022,21,Esteban Ocon,16,8,Finished
+2022,21,Valtteri Bottas,14,9,Finished
+2022,21,Lance Stroll,15,10,Finished
+2022,21,Sebastian Vettel,9,11,Finished
+2022,21,Guanyu Zhou,13,12,Finished
+2022,21,Mick Schumacher,12,13,Finished
+2022,21,Pierre Gasly,10,14,Finished
+2022,21,Alexander Albon,19,15,Finished
+2022,21,Nicholas Latifi,18,16,Finished
+2022,21,Yuki Tsunoda,0,17,+1 Lap
+2022,21,Lando Norris,6,18,Gearbox
+2022,21,Kevin Magnussen,8,19,Collision
+2022,21,Daniel Ricciardo,11,20,Collision
+2022,22,Max Verstappen,1,1,Finished
+2022,22,Charles Leclerc,3,2,Finished
+2022,22,Sergio Pérez,2,3,Finished
+2022,22,Carlos Sainz,4,4,Finished
+2022,22,George Russell,6,5,Finished
+2022,22,Lando Norris,7,6,Finished
+2022,22,Esteban Ocon,8,7,Finished
+2022,22,Lance Stroll,14,8,Finished
+2022,22,Daniel Ricciardo,13,9,Finished
+2022,22,Sebastian Vettel,9,10,Finished
+2022,22,Yuki Tsunoda,11,11,Finished
+2022,22,Guanyu Zhou,15,12,+1 Lap
+2022,22,Alexander Albon,19,13,+1 Lap
+2022,22,Pierre Gasly,17,14,+1 Lap
+2022,22,Valtteri Bottas,18,15,+1 Lap
+2022,22,Mick Schumacher,12,16,+1 Lap
+2022,22,Kevin Magnussen,16,17,+1 Lap
+2022,22,Lewis Hamilton,5,18,Hydraulics
+2022,22,Nicholas Latifi,20,19,Collision damage
+2022,22,Fernando Alonso,10,20,Water leak
+2023,1,Max Verstappen,1,1,Finished
+2023,1,Sergio Pérez,2,2,Finished
+2023,1,Fernando Alonso,5,3,Finished
+2023,1,Carlos Sainz,4,4,Finished
+2023,1,Lewis Hamilton,7,5,Finished
+2023,1,Lance Stroll,8,6,Finished
+2023,1,George Russell,6,7,Finished
+2023,1,Valtteri Bottas,12,8,Finished
+2023,1,Pierre Gasly,20,9,Finished
+2023,1,Alexander Albon,15,10,Finished
+2023,1,Yuki Tsunoda,14,11,Finished
+2023,1,Logan Sargeant,16,12,Lapped
+2023,1,Kevin Magnussen,17,13,Lapped
+2023,1,Nyck de Vries,19,14,Lapped
+2023,1,Nico Hülkenberg,10,15,Lapped
+2023,1,Guanyu Zhou,13,16,Lapped
+2023,1,Lando Norris,11,17,Lapped
+2023,1,Esteban Ocon,9,18,Retired
+2023,1,Charles Leclerc,3,19,Retired
+2023,1,Oscar Piastri,18,20,Retired
+2023,2,Sergio Pérez,1,1,Finished
+2023,2,Max Verstappen,15,2,Finished
+2023,2,Fernando Alonso,2,3,Finished
+2023,2,George Russell,3,4,Finished
+2023,2,Lewis Hamilton,7,5,Finished
+2023,2,Carlos Sainz,4,6,Finished
+2023,2,Charles Leclerc,12,7,Finished
+2023,2,Esteban Ocon,6,8,Finished
+2023,2,Pierre Gasly,9,9,Finished
+2023,2,Kevin Magnussen,13,10,Finished
+2023,2,Yuki Tsunoda,16,11,Finished
+2023,2,Nico Hülkenberg,10,12,Finished
+2023,2,Guanyu Zhou,11,13,Finished
+2023,2,Nyck de Vries,18,14,Finished
+2023,2,Oscar Piastri,8,15,Finished
+2023,2,Logan Sargeant,20,16,Finished
+2023,2,Lando Norris,19,17,Finished
+2023,2,Valtteri Bottas,14,18,Lapped
+2023,2,Alexander Albon,17,19,Retired
+2023,2,Lance Stroll,5,20,Retired
+2023,3,Max Verstappen,1,1,Finished
+2023,3,Lewis Hamilton,3,2,Finished
+2023,3,Fernando Alonso,4,3,Finished
+2023,3,Lance Stroll,6,4,Finished
+2023,3,Sergio Pérez,20,5,Finished
+2023,3,Lando Norris,13,6,Finished
+2023,3,Nico Hülkenberg,10,7,Finished
+2023,3,Oscar Piastri,16,8,Finished
+2023,3,Guanyu Zhou,17,9,Finished
+2023,3,Yuki Tsunoda,12,10,Finished
+2023,3,Valtteri Bottas,19,11,Finished
+2023,3,Carlos Sainz,5,12,Finished
+2023,3,Pierre Gasly,9,13,Retired
+2023,3,Esteban Ocon,11,14,Retired
+2023,3,Nyck de Vries,15,15,Retired
+2023,3,Logan Sargeant,18,16,Retired
+2023,3,Kevin Magnussen,14,17,Retired
+2023,3,George Russell,2,18,Retired
+2023,3,Alexander Albon,8,19,Retired
+2023,3,Charles Leclerc,7,20,Retired
+2023,4,Sergio Pérez,3,1,Finished
+2023,4,Max Verstappen,2,2,Finished
+2023,4,Charles Leclerc,1,3,Finished
+2023,4,Fernando Alonso,6,4,Finished
+2023,4,Carlos Sainz,4,5,Finished
+2023,4,Lewis Hamilton,5,6,Finished
+2023,4,Lance Stroll,9,7,Finished
+2023,4,George Russell,11,8,Finished
+2023,4,Lando Norris,7,9,Finished
+2023,4,Yuki Tsunoda,8,10,Finished
+2023,4,Oscar Piastri,10,11,Finished
+2023,4,Alexander Albon,12,12,Finished
+2023,4,Kevin Magnussen,16,13,Finished
+2023,4,Pierre Gasly,17,14,Finished
+2023,4,Esteban Ocon,19,15,Finished
+2023,4,Logan Sargeant,14,16,Finished
+2023,4,Nico Hülkenberg,20,17,Lapped
+2023,4,Valtteri Bottas,13,18,Lapped
+2023,4,Guanyu Zhou,15,19,Retired
+2023,4,Nyck de Vries,18,20,Retired
+2023,5,Max Verstappen,9,1,Finished
+2023,5,Sergio Pérez,1,2,Finished
+2023,5,Fernando Alonso,2,3,Finished
+2023,5,George Russell,6,4,Finished
+2023,5,Carlos Sainz,3,5,Finished
+2023,5,Lewis Hamilton,13,6,Finished
+2023,5,Charles Leclerc,7,7,Finished
+2023,5,Pierre Gasly,5,8,Finished
+2023,5,Esteban Ocon,8,9,Finished
+2023,5,Kevin Magnussen,4,10,Finished
+2023,5,Yuki Tsunoda,17,11,Finished
+2023,5,Lance Stroll,18,12,Finished
+2023,5,Valtteri Bottas,10,13,Finished
+2023,5,Alexander Albon,11,14,Finished
+2023,5,Nico Hülkenberg,12,15,Finished
+2023,5,Guanyu Zhou,14,16,Finished
+2023,5,Lando Norris,16,17,Finished
+2023,5,Nyck de Vries,15,18,Finished
+2023,5,Oscar Piastri,19,19,Lapped
+2023,5,Logan Sargeant,20,20,Lapped
+2023,6,Max Verstappen,1,1,Finished
+2023,6,Fernando Alonso,2,2,Finished
+2023,6,Esteban Ocon,3,3,Finished
+2023,6,Lewis Hamilton,5,4,Finished
+2023,6,George Russell,8,5,Finished
+2023,6,Charles Leclerc,6,6,Finished
+2023,6,Pierre Gasly,7,7,Finished
+2023,6,Carlos Sainz,4,8,Finished
+2023,6,Lando Norris,10,9,Lapped
+2023,6,Oscar Piastri,11,10,Lapped
+2023,6,Valtteri Bottas,15,11,Lapped
+2023,6,Nyck de Vries,12,12,Lapped
+2023,6,Guanyu Zhou,19,13,Lapped
+2023,6,Alexander Albon,13,14,Lapped
+2023,6,Yuki Tsunoda,9,15,Lapped
+2023,6,Sergio Pérez,20,16,Lapped
+2023,6,Nico Hülkenberg,18,17,Lapped
+2023,6,Logan Sargeant,16,18,Lapped
+2023,6,Kevin Magnussen,17,19,Retired
+2023,6,Lance Stroll,14,20,Retired
+2023,7,Max Verstappen,1,1,Finished
+2023,7,Lewis Hamilton,4,2,Finished
+2023,7,George Russell,12,3,Finished
+2023,7,Sergio Pérez,11,4,Finished
+2023,7,Carlos Sainz,2,5,Finished
+2023,7,Lance Stroll,5,6,Finished
+2023,7,Fernando Alonso,8,7,Finished
+2023,7,Esteban Ocon,6,8,Finished
+2023,7,Guanyu Zhou,13,9,Finished
+2023,7,Pierre Gasly,10,10,Finished
+2023,7,Charles Leclerc,19,11,Finished
+2023,7,Yuki Tsunoda,15,12,Finished
+2023,7,Oscar Piastri,9,13,Lapped
+2023,7,Nyck de Vries,14,14,Lapped
+2023,7,Nico Hülkenberg,7,15,Lapped
+2023,7,Alexander Albon,18,16,Lapped
+2023,7,Lando Norris,3,17,Lapped
+2023,7,Kevin Magnussen,17,18,Lapped
+2023,7,Valtteri Bottas,16,19,Lapped
+2023,7,Logan Sargeant,20,20,Lapped
+2023,8,Max Verstappen,1,1,Finished
+2023,8,Fernando Alonso,2,2,Finished
+2023,8,Lewis Hamilton,3,3,Finished
+2023,8,Charles Leclerc,10,4,Finished
+2023,8,Carlos Sainz,11,5,Finished
+2023,8,Sergio Pérez,12,6,Finished
+2023,8,Alexander Albon,9,7,Finished
+2023,8,Esteban Ocon,6,8,Finished
+2023,8,Lance Stroll,16,9,Finished
+2023,8,Valtteri Bottas,14,10,Finished
+2023,8,Oscar Piastri,8,11,Finished
+2023,8,Pierre Gasly,15,12,Finished
+2023,8,Lando Norris,7,13,Finished
+2023,8,Yuki Tsunoda,19,14,Finished
+2023,8,Nico Hülkenberg,5,15,Lapped
+2023,8,Guanyu Zhou,20,16,Lapped
+2023,8,Kevin Magnussen,13,17,Lapped
+2023,8,Nyck de Vries,17,18,Lapped
+2023,8,George Russell,4,19,Retired
+2023,8,Logan Sargeant,18,20,Retired
+2023,9,Max Verstappen,1,1,Finished
+2023,9,Charles Leclerc,2,2,Finished
+2023,9,Sergio Pérez,15,3,Finished
+2023,9,Lando Norris,4,4,Finished
+2023,9,Fernando Alonso,7,5,Finished
+2023,9,Carlos Sainz,3,6,Finished
+2023,9,George Russell,11,7,Finished
+2023,9,Lewis Hamilton,5,8,Finished
+2023,9,Lance Stroll,6,9,Finished
+2023,9,Pierre Gasly,9,10,Finished
+2023,9,Alexander Albon,10,11,Finished
+2023,9,Guanyu Zhou,17,12,Lapped
+2023,9,Logan Sargeant,18,13,Lapped
+2023,9,Esteban Ocon,12,14,Lapped
+2023,9,Valtteri Bottas,14,15,Lapped
+2023,9,Oscar Piastri,13,16,Lapped
+2023,9,Nyck de Vries,20,17,Lapped
+2023,9,Kevin Magnussen,19,18,Lapped
+2023,9,Yuki Tsunoda,16,19,Lapped
+2023,9,Nico Hülkenberg,8,20,Retired
+2023,10,Max Verstappen,1,1,Finished
+2023,10,Lando Norris,2,2,Finished
+2023,10,Lewis Hamilton,7,3,Finished
+2023,10,Oscar Piastri,3,4,Finished
+2023,10,George Russell,6,5,Finished
+2023,10,Sergio Pérez,15,6,Finished
+2023,10,Fernando Alonso,9,7,Finished
+2023,10,Alexander Albon,8,8,Finished
+2023,10,Charles Leclerc,4,9,Finished
+2023,10,Carlos Sainz,5,10,Finished
+2023,10,Logan Sargeant,14,11,Finished
+2023,10,Valtteri Bottas,20,12,Finished
+2023,10,Nico Hülkenberg,11,13,Finished
+2023,10,Lance Stroll,12,14,Finished
+2023,10,Guanyu Zhou,17,15,Finished
+2023,10,Yuki Tsunoda,16,16,Finished
+2023,10,Nyck de Vries,18,17,Finished
+2023,10,Pierre Gasly,10,18,Retired
+2023,10,Kevin Magnussen,19,19,Retired
+2023,10,Esteban Ocon,13,20,Retired
+2023,11,Max Verstappen,2,1,Finished
+2023,11,Lando Norris,3,2,Finished
+2023,11,Sergio Pérez,9,3,Finished
+2023,11,Lewis Hamilton,1,4,Finished
+2023,11,Oscar Piastri,4,5,Finished
+2023,11,George Russell,18,6,Finished
+2023,11,Charles Leclerc,6,7,Finished
+2023,11,Carlos Sainz,11,8,Finished
+2023,11,Fernando Alonso,8,9,Finished
+2023,11,Lance Stroll,14,10,Lapped
+2023,11,Alexander Albon,16,11,Lapped
+2023,11,Valtteri Bottas,7,12,Lapped
+2023,11,Daniel Ricciardo,13,13,Lapped
+2023,11,Nico Hülkenberg,10,14,Lapped
+2023,11,Yuki Tsunoda,17,15,Lapped
+2023,11,Guanyu Zhou,5,16,Lapped
+2023,11,Kevin Magnussen,19,17,Lapped
+2023,11,Logan Sargeant,20,18,Retired
+2023,11,Esteban Ocon,12,19,Retired
+2023,11,Pierre Gasly,15,20,Retired
+2023,12,Max Verstappen,6,1,Finished
+2023,12,Sergio Pérez,2,2,Finished
+2023,12,Charles Leclerc,1,3,Finished
+2023,12,Lewis Hamilton,3,4,Finished
+2023,12,Fernando Alonso,9,5,Finished
+2023,12,George Russell,8,6,Finished
+2023,12,Lando Norris,7,7,Finished
+2023,12,Esteban Ocon,14,8,Finished
+2023,12,Lance Stroll,10,9,Finished
+2023,12,Yuki Tsunoda,11,10,Finished
+2023,12,Pierre Gasly,12,11,Finished
+2023,12,Valtteri Bottas,13,12,Finished
+2023,12,Guanyu Zhou,17,13,Finished
+2023,12,Alexander Albon,15,14,Finished
+2023,12,Kevin Magnussen,16,15,Finished
+2023,12,Daniel Ricciardo,19,16,Finished
+2023,12,Logan Sargeant,18,17,Finished
+2023,12,Nico Hülkenberg,20,18,Finished
+2023,12,Carlos Sainz,4,19,Retired
+2023,12,Oscar Piastri,5,20,Retired
+2023,13,Max Verstappen,1,1,Finished
+2023,13,Fernando Alonso,5,2,Finished
+2023,13,Pierre Gasly,12,3,Finished
+2023,13,Sergio Pérez,7,4,Finished
+2023,13,Carlos Sainz,6,5,Finished
+2023,13,Lewis Hamilton,13,6,Finished
+2023,13,Lando Norris,2,7,Finished
+2023,13,Alexander Albon,4,8,Finished
+2023,13,Oscar Piastri,8,9,Finished
+2023,13,Esteban Ocon,16,10,Finished
+2023,13,Lance Stroll,11,11,Finished
+2023,13,Nico Hülkenberg,14,12,Finished
+2023,13,Liam Lawson,19,13,Finished
+2023,13,Valtteri Bottas,18,14,Finished
+2023,13,Yuki Tsunoda,17,15,Finished
+2023,13,Kevin Magnussen,0,16,Finished
+2023,13,George Russell,3,17,Finished
+2023,13,Guanyu Zhou,15,18,Accident
+2023,13,Charles Leclerc,9,19,Undertray
+2023,13,Logan Sargeant,10,20,Accident
+2023,14,Max Verstappen,2,1,Finished
+2023,14,Sergio Pérez,5,2,Finished
+2023,14,Carlos Sainz,1,3,Finished
+2023,14,Charles Leclerc,3,4,Finished
+2023,14,George Russell,4,5,Finished
+2023,14,Lewis Hamilton,8,6,Finished
+2023,14,Alexander Albon,6,7,Finished
+2023,14,Lando Norris,9,8,Finished
+2023,14,Fernando Alonso,10,9,Finished
+2023,14,Valtteri Bottas,14,10,Finished
+2023,14,Liam Lawson,12,11,Finished
+2023,14,Oscar Piastri,7,12,Finished
+2023,14,Logan Sargeant,15,13,Finished
+2023,14,Guanyu Zhou,16,14,Finished
+2023,14,Pierre Gasly,17,15,Finished
+2023,14,Lance Stroll,20,16,Finished
+2023,14,Nico Hülkenberg,13,17,Lapped
+2023,14,Kevin Magnussen,19,18,Lapped
+2023,14,Esteban Ocon,18,19,Retired
+2023,14,Yuki Tsunoda,11,20,Did not start
+2023,15,Carlos Sainz,1,1,Finished
+2023,15,Lando Norris,4,2,Finished
+2023,15,Lewis Hamilton,5,3,Finished
+2023,15,Charles Leclerc,3,4,Finished
+2023,15,Max Verstappen,11,5,Finished
+2023,15,Pierre Gasly,12,6,Finished
+2023,15,Oscar Piastri,17,7,Finished
+2023,15,Sergio Pérez,13,8,Finished
+2023,15,Liam Lawson,10,9,Finished
+2023,15,Kevin Magnussen,6,10,Finished
+2023,15,Alexander Albon,14,11,Finished
+2023,15,Guanyu Zhou,19,12,Finished
+2023,15,Nico Hülkenberg,9,13,Finished
+2023,15,Logan Sargeant,18,14,Finished
+2023,15,Fernando Alonso,7,15,Finished
+2023,15,George Russell,2,16,Retired
+2023,15,Valtteri Bottas,16,17,Retired
+2023,15,Esteban Ocon,8,18,Retired
+2023,15,Yuki Tsunoda,15,19,Retired
+2023,15,Lance Stroll,0,20,Withdrew
+2023,16,Max Verstappen,1,1,Finished
+2023,16,Lando Norris,3,2,Finished
+2023,16,Oscar Piastri,2,3,Finished
+2023,16,Charles Leclerc,4,4,Finished
+2023,16,Lewis Hamilton,7,5,Finished
+2023,16,Carlos Sainz,6,6,Finished
+2023,16,George Russell,8,7,Finished
+2023,16,Fernando Alonso,10,8,Finished
+2023,16,Esteban Ocon,14,9,Finished
+2023,16,Pierre Gasly,12,10,Finished
+2023,16,Liam Lawson,11,11,Lapped
+2023,16,Yuki Tsunoda,9,12,Lapped
+2023,16,Guanyu Zhou,19,13,Lapped
+2023,16,Nico Hülkenberg,18,14,Lapped
+2023,16,Kevin Magnussen,15,15,Lapped
+2023,16,Alexander Albon,13,16,Retired
+2023,16,Logan Sargeant,20,17,Retired
+2023,16,Lance Stroll,17,18,Retired
+2023,16,Sergio Pérez,5,19,Retired
+2023,16,Valtteri Bottas,16,20,Retired
+2023,17,Max Verstappen,1,1,Finished
+2023,17,Oscar Piastri,6,2,Finished
+2023,17,Lando Norris,10,3,Finished
+2023,17,George Russell,2,4,Finished
+2023,17,Charles Leclerc,5,5,Finished
+2023,17,Fernando Alonso,4,6,Finished
+2023,17,Esteban Ocon,8,7,Finished
+2023,17,Valtteri Bottas,9,8,Finished
+2023,17,Guanyu Zhou,19,9,Finished
+2023,17,Sergio Pérez,20,10,Finished
+2023,17,Lance Stroll,16,11,Finished
+2023,17,Pierre Gasly,7,12,Finished
+2023,17,Alexander Albon,13,13,Finished
+2023,17,Kevin Magnussen,18,14,Lapped
+2023,17,Yuki Tsunoda,11,15,Lapped
+2023,17,Nico Hülkenberg,14,16,Lapped
+2023,17,Liam Lawson,17,17,Lapped
+2023,17,Logan Sargeant,15,18,Retired
+2023,17,Lewis Hamilton,3,19,Retired
+2023,17,Carlos Sainz,12,20,Did not start
+2023,18,Max Verstappen,6,1,Finished
+2023,18,Lando Norris,2,2,Finished
+2023,18,Carlos Sainz,4,3,Finished
+2023,18,Sergio Pérez,9,4,Finished
+2023,18,George Russell,5,5,Finished
+2023,18,Pierre Gasly,7,6,Finished
+2023,18,Lance Stroll,20,7,Finished
+2023,18,Yuki Tsunoda,11,8,Finished
+2023,18,Alexander Albon,15,9,Finished
+2023,18,Logan Sargeant,16,10,Finished
+2023,18,Nico Hülkenberg,18,11,Finished
+2023,18,Valtteri Bottas,13,12,Finished
+2023,18,Guanyu Zhou,12,13,Lapped
+2023,18,Kevin Magnussen,17,14,Lapped
+2023,18,Daniel Ricciardo,14,15,Lapped
+2023,18,Fernando Alonso,19,16,Retired
+2023,18,Oscar Piastri,10,17,Retired
+2023,18,Esteban Ocon,8,18,Retired
+2023,18,Lewis Hamilton,3,19,Disqualified
+2023,18,Charles Leclerc,1,20,Disqualified
+2023,19,Max Verstappen,3,1,Finished
+2023,19,Lewis Hamilton,6,2,Finished
+2023,19,Charles Leclerc,1,3,Finished
+2023,19,Carlos Sainz,2,4,Finished
+2023,19,Lando Norris,17,5,Finished
+2023,19,George Russell,8,6,Finished
+2023,19,Daniel Ricciardo,4,7,Finished
+2023,19,Oscar Piastri,7,8,Finished
+2023,19,Alexander Albon,14,9,Finished
+2023,19,Esteban Ocon,15,10,Finished
+2023,19,Pierre Gasly,11,11,Finished
+2023,19,Yuki Tsunoda,18,12,Finished
+2023,19,Nico Hülkenberg,12,13,Finished
+2023,19,Guanyu Zhou,10,14,Finished
+2023,19,Valtteri Bottas,9,15,Finished
+2023,19,Logan Sargeant,19,16,Retired
+2023,19,Lance Stroll,0,17,Collision damage
+2023,19,Fernando Alonso,13,18,Withdrew
+2023,19,Kevin Magnussen,16,19,Accident
+2023,19,Sergio Pérez,5,20,Collision damage
+2023,20,Max Verstappen,1,1,Finished
+2023,20,Lando Norris,6,2,Finished
+2023,20,Fernando Alonso,4,3,Finished
+2023,20,Sergio Pérez,9,4,Finished
+2023,20,Lance Stroll,3,5,Finished
+2023,20,Carlos Sainz,7,6,Finished
+2023,20,Pierre Gasly,15,7,Finished
+2023,20,Lewis Hamilton,5,8,Finished
+2023,20,Yuki Tsunoda,16,9,Finished
+2023,20,Esteban Ocon,14,10,Lapped
+2023,20,Logan Sargeant,19,11,Lapped
+2023,20,Nico Hülkenberg,11,12,Lapped
+2023,20,Daniel Ricciardo,17,13,Lapped
+2023,20,Oscar Piastri,10,14,Lapped
+2023,20,George Russell,8,15,Retired
+2023,20,Valtteri Bottas,18,16,Retired
+2023,20,Guanyu Zhou,20,17,Retired
+2023,20,Kevin Magnussen,12,18,Retired
+2023,20,Alexander Albon,13,19,Retired
+2023,20,Charles Leclerc,2,20,Did not start
+2023,21,Max Verstappen,2,1,Finished
+2023,21,Charles Leclerc,1,2,Finished
+2023,21,Sergio Pérez,11,3,Finished
+2023,21,Esteban Ocon,16,4,Finished
+2023,21,Lance Stroll,19,5,Finished
+2023,21,Carlos Sainz,12,6,Finished
+2023,21,Lewis Hamilton,10,7,Finished
+2023,21,George Russell,3,8,Finished
+2023,21,Fernando Alonso,9,9,Finished
+2023,21,Oscar Piastri,18,10,Finished
+2023,21,Pierre Gasly,4,11,Finished
+2023,21,Alexander Albon,5,12,Finished
+2023,21,Kevin Magnussen,8,13,Finished
+2023,21,Daniel Ricciardo,14,14,Finished
+2023,21,Guanyu Zhou,17,15,Finished
+2023,21,Logan Sargeant,6,16,Finished
+2023,21,Valtteri Bottas,7,17,Finished
+2023,21,Yuki Tsunoda,20,18,Retired
+2023,21,Nico Hülkenberg,13,19,Retired
+2023,21,Lando Norris,15,20,Retired
+2023,22,Max Verstappen,1,1,Finished
+2023,22,Charles Leclerc,2,2,Finished
+2023,22,George Russell,4,3,Finished
+2023,22,Sergio Pérez,9,4,Finished
+2023,22,Lando Norris,5,5,Finished
+2023,22,Oscar Piastri,3,6,Finished
+2023,22,Fernando Alonso,7,7,Finished
+2023,22,Yuki Tsunoda,6,8,Finished
+2023,22,Lewis Hamilton,11,9,Finished
+2023,22,Lance Stroll,13,10,Finished
+2023,22,Daniel Ricciardo,15,11,Finished
+2023,22,Esteban Ocon,12,12,Finished
+2023,22,Pierre Gasly,10,13,Finished
+2023,22,Alexander Albon,14,14,Finished
+2023,22,Nico Hülkenberg,8,15,Finished
+2023,22,Logan Sargeant,20,16,Finished
+2023,22,Guanyu Zhou,19,17,Finished
+2023,22,Carlos Sainz,16,18,Retired
+2023,22,Valtteri Bottas,18,19,Lapped
+2023,22,Kevin Magnussen,17,20,Lapped
+2024,1,Max Verstappen,1,1,Finished
+2024,1,Sergio Pérez,5,2,Finished
+2024,1,Carlos Sainz,4,3,Finished
+2024,1,Charles Leclerc,2,4,Finished
+2024,1,George Russell,3,5,Finished
+2024,1,Lando Norris,7,6,Finished
+2024,1,Lewis Hamilton,9,7,Finished
+2024,1,Oscar Piastri,8,8,Finished
+2024,1,Fernando Alonso,6,9,Finished
+2024,1,Lance Stroll,12,10,Finished
+2024,1,Guanyu Zhou,17,11,Lapped
+2024,1,Kevin Magnussen,15,12,Lapped
+2024,1,Daniel Ricciardo,14,13,Lapped
+2024,1,Yuki Tsunoda,11,14,Lapped
+2024,1,Alexander Albon,13,15,Lapped
+2024,1,Nico Hülkenberg,10,16,Lapped
+2024,1,Esteban Ocon,19,17,Lapped
+2024,1,Pierre Gasly,20,18,Lapped
+2024,1,Valtteri Bottas,16,19,Lapped
+2024,1,Logan Sargeant,18,20,Lapped
+2024,2,Max Verstappen,1,1,Finished
+2024,2,Sergio Pérez,3,2,Finished
+2024,2,Charles Leclerc,2,3,Finished
+2024,2,Oscar Piastri,5,4,Finished
+2024,2,Fernando Alonso,4,5,Finished
+2024,2,George Russell,7,6,Finished
+2024,2,Oliver Bearman,11,7,Finished
+2024,2,Lando Norris,6,8,Finished
+2024,2,Lewis Hamilton,8,9,Finished
+2024,2,Nico Hülkenberg,15,10,Finished
+2024,2,Alexander Albon,12,11,Finished
+2024,2,Kevin Magnussen,13,12,Finished
+2024,2,Esteban Ocon,17,13,Lapped
+2024,2,Logan Sargeant,19,14,Lapped
+2024,2,Yuki Tsunoda,9,15,Lapped
+2024,2,Daniel Ricciardo,14,16,Lapped
+2024,2,Valtteri Bottas,16,17,Lapped
+2024,2,Guanyu Zhou,20,18,Lapped
+2024,2,Lance Stroll,10,19,Retired
+2024,2,Pierre Gasly,18,20,Retired
+2024,3,Carlos Sainz,2,1,Finished
+2024,3,Charles Leclerc,4,2,Finished
+2024,3,Lando Norris,3,3,Finished
+2024,3,Oscar Piastri,5,4,Finished
+2024,3,Sergio Pérez,6,5,Finished
+2024,3,Lance Stroll,9,6,Finished
+2024,3,Yuki Tsunoda,8,7,Finished
+2024,3,Fernando Alonso,10,8,Finished
+2024,3,Nico Hülkenberg,16,9,Finished
+2024,3,Kevin Magnussen,14,10,Lapped
+2024,3,Alexander Albon,12,11,Lapped
+2024,3,Daniel Ricciardo,18,12,Lapped
+2024,3,Pierre Gasly,17,13,Lapped
+2024,3,Valtteri Bottas,13,14,Lapped
+2024,3,Guanyu Zhou,19,15,Lapped
+2024,3,Esteban Ocon,15,16,Lapped
+2024,3,George Russell,7,17,Retired
+2024,3,Lewis Hamilton,11,18,Retired
+2024,3,Max Verstappen,1,19,Retired
+2024,4,Max Verstappen,1,1,Finished
+2024,4,Sergio Pérez,2,2,Finished
+2024,4,Carlos Sainz,4,3,Finished
+2024,4,Charles Leclerc,8,4,Finished
+2024,4,Lando Norris,3,5,Finished
+2024,4,Fernando Alonso,5,6,Finished
+2024,4,George Russell,9,7,Finished
+2024,4,Oscar Piastri,6,8,Finished
+2024,4,Lewis Hamilton,7,9,Finished
+2024,4,Yuki Tsunoda,10,10,Lapped
+2024,4,Nico Hülkenberg,12,11,Lapped
+2024,4,Lance Stroll,16,12,Lapped
+2024,4,Kevin Magnussen,18,13,Lapped
+2024,4,Valtteri Bottas,13,14,Lapped
+2024,4,Esteban Ocon,15,15,Lapped
+2024,4,Pierre Gasly,17,16,Lapped
+2024,4,Logan Sargeant,19,17,Lapped
+2024,4,Guanyu Zhou,20,18,Retired
+2024,4,Daniel Ricciardo,11,19,Retired
+2024,4,Alexander Albon,14,20,Retired
+2024,5,Max Verstappen,1,1,Finished
+2024,5,Lando Norris,4,2,Finished
+2024,5,Sergio Pérez,2,3,Finished
+2024,5,Charles Leclerc,6,4,Finished
+2024,5,Carlos Sainz,7,5,Finished
+2024,5,George Russell,8,6,Finished
+2024,5,Fernando Alonso,3,7,Finished
+2024,5,Oscar Piastri,5,8,Finished
+2024,5,Lewis Hamilton,18,9,Finished
+2024,5,Nico Hülkenberg,9,10,Finished
+2024,5,Esteban Ocon,13,11,Finished
+2024,5,Alexander Albon,14,12,Finished
+2024,5,Pierre Gasly,15,13,Finished
+2024,5,Guanyu Zhou,16,14,Finished
+2024,5,Lance Stroll,11,15,Finished
+2024,5,Kevin Magnussen,17,16,Finished
+2024,5,Logan Sargeant,20,17,Finished
+2024,5,Daniel Ricciardo,12,18,Retired
+2024,5,Yuki Tsunoda,19,19,Retired
+2024,5,Valtteri Bottas,10,20,Retired
+2024,6,Lando Norris,5,1,Finished
+2024,6,Max Verstappen,1,2,Finished
+2024,6,Charles Leclerc,2,3,Finished
+2024,6,Sergio Pérez,4,4,Finished
+2024,6,Carlos Sainz,3,5,Finished
+2024,6,Lewis Hamilton,8,6,Finished
+2024,6,Yuki Tsunoda,10,7,Finished
+2024,6,George Russell,7,8,Finished
+2024,6,Fernando Alonso,15,9,Finished
+2024,6,Esteban Ocon,13,10,Finished
+2024,6,Nico Hülkenberg,9,11,Finished
+2024,6,Pierre Gasly,12,12,Finished
+2024,6,Oscar Piastri,6,13,Finished
+2024,6,Guanyu Zhou,19,14,Finished
+2024,6,Daniel Ricciardo,20,15,Finished
+2024,6,Valtteri Bottas,16,16,Finished
+2024,6,Lance Stroll,11,17,Finished
+2024,6,Alexander Albon,14,18,Finished
+2024,6,Kevin Magnussen,18,19,Finished
+2024,6,Logan Sargeant,17,20,Retired
+2024,7,Max Verstappen,1,1,Finished
+2024,7,Lando Norris,2,2,Finished
+2024,7,Charles Leclerc,3,3,Finished
+2024,7,Oscar Piastri,5,4,Finished
+2024,7,Carlos Sainz,4,5,Finished
+2024,7,Lewis Hamilton,8,6,Finished
+2024,7,George Russell,6,7,Finished
+2024,7,Sergio Pérez,11,8,Finished
+2024,7,Lance Stroll,13,9,Finished
+2024,7,Yuki Tsunoda,7,10,Lapped
+2024,7,Nico Hülkenberg,10,11,Lapped
+2024,7,Kevin Magnussen,18,12,Lapped
+2024,7,Daniel Ricciardo,9,13,Lapped
+2024,7,Esteban Ocon,12,14,Lapped
+2024,7,Guanyu Zhou,17,15,Lapped
+2024,7,Pierre Gasly,15,16,Lapped
+2024,7,Logan Sargeant,19,17,Lapped
+2024,7,Valtteri Bottas,16,18,Lapped
+2024,7,Fernando Alonso,20,19,Lapped
+2024,7,Alexander Albon,14,20,Retired
+2024,8,Charles Leclerc,1,1,Finished
+2024,8,Oscar Piastri,2,2,Finished
+2024,8,Carlos Sainz,3,3,Finished
+2024,8,Lando Norris,4,4,Finished
+2024,8,George Russell,5,5,Finished
+2024,8,Max Verstappen,6,6,Finished
+2024,8,Lewis Hamilton,7,7,Finished
+2024,8,Yuki Tsunoda,8,8,Lapped
+2024,8,Alexander Albon,9,9,Lapped
+2024,8,Pierre Gasly,10,10,Lapped
+2024,8,Fernando Alonso,14,11,Lapped
+2024,8,Daniel Ricciardo,12,12,Lapped
+2024,8,Valtteri Bottas,17,13,Lapped
+2024,8,Lance Stroll,13,14,Lapped
+2024,8,Logan Sargeant,15,15,Lapped
+2024,8,Guanyu Zhou,18,16,Lapped
+2024,8,Esteban Ocon,11,17,Retired
+2024,8,Sergio Pérez,16,18,Retired
+2024,8,Nico Hülkenberg,19,19,Retired
+2024,8,Kevin Magnussen,20,20,Retired
+2024,9,Max Verstappen,2,1,Finished
+2024,9,Lando Norris,3,2,Finished
+2024,9,George Russell,1,3,Finished
+2024,9,Lewis Hamilton,7,4,Finished
+2024,9,Oscar Piastri,4,5,Finished
+2024,9,Fernando Alonso,6,6,Finished
+2024,9,Lance Stroll,9,7,Finished
+2024,9,Daniel Ricciardo,5,8,Finished
+2024,9,Pierre Gasly,15,9,Finished
+2024,9,Esteban Ocon,18,10,Finished
+2024,9,Nico Hülkenberg,17,11,Finished
+2024,9,Kevin Magnussen,14,12,Finished
+2024,9,Valtteri Bottas,19,13,Finished
+2024,9,Yuki Tsunoda,8,14,Finished
+2024,9,Guanyu Zhou,20,15,Lapped
+2024,9,Carlos Sainz,12,16,Retired
+2024,9,Alexander Albon,10,17,Retired
+2024,9,Sergio Pérez,16,18,Retired
+2024,9,Charles Leclerc,11,19,Retired
+2024,9,Logan Sargeant,13,20,Retired
+2024,10,Max Verstappen,2,1,Finished
+2024,10,Lando Norris,1,2,Finished
+2024,10,Lewis Hamilton,3,3,Finished
+2024,10,George Russell,4,4,Finished
+2024,10,Charles Leclerc,5,5,Finished
+2024,10,Carlos Sainz,6,6,Finished
+2024,10,Oscar Piastri,9,7,Finished
+2024,10,Sergio Pérez,11,8,Finished
+2024,10,Pierre Gasly,7,9,Finished
+2024,10,Esteban Ocon,8,10,Finished
+2024,10,Nico Hülkenberg,13,11,Finished
+2024,10,Fernando Alonso,10,12,Lapped
+2024,10,Guanyu Zhou,15,13,Lapped
+2024,10,Lance Stroll,14,14,Lapped
+2024,10,Daniel Ricciardo,18,15,Lapped
+2024,10,Valtteri Bottas,12,16,Lapped
+2024,10,Kevin Magnussen,16,17,Lapped
+2024,10,Alexander Albon,20,18,Lapped
+2024,10,Yuki Tsunoda,17,19,Lapped
+2024,10,Logan Sargeant,19,20,Lapped
+2024,11,George Russell,3,1,Finished
+2024,11,Oscar Piastri,7,2,Finished
+2024,11,Carlos Sainz,4,3,Finished
+2024,11,Lewis Hamilton,5,4,Finished
+2024,11,Max Verstappen,1,5,Finished
+2024,11,Nico Hülkenberg,9,6,Finished
+2024,11,Sergio Pérez,8,7,Finished
+2024,11,Kevin Magnussen,12,8,Finished
+2024,11,Daniel Ricciardo,11,9,Finished
+2024,11,Pierre Gasly,13,10,Finished
+2024,11,Charles Leclerc,6,11,Finished
+2024,11,Esteban Ocon,10,12,Finished
+2024,11,Lance Stroll,17,13,Lapped
+2024,11,Yuki Tsunoda,14,14,Lapped
+2024,11,Alexander Albon,16,15,Lapped
+2024,11,Valtteri Bottas,18,16,Lapped
+2024,11,Guanyu Zhou,20,17,Lapped
+2024,11,Fernando Alonso,15,18,Lapped
+2024,11,Logan Sargeant,19,19,Lapped
+2024,11,Lando Norris,2,20,Lapped
+2024,12,Lewis Hamilton,2,1,Finished
+2024,12,Max Verstappen,4,2,Finished
+2024,12,Lando Norris,3,3,Finished
+2024,12,Oscar Piastri,5,4,Finished
+2024,12,Carlos Sainz,7,5,Finished
+2024,12,Nico Hülkenberg,6,6,Finished
+2024,12,Lance Stroll,8,7,Finished
+2024,12,Fernando Alonso,10,8,Finished
+2024,12,Alexander Albon,9,9,Finished
+2024,12,Yuki Tsunoda,13,10,Finished
+2024,12,Logan Sargeant,12,11,Finished
+2024,12,Kevin Magnussen,17,12,Finished
+2024,12,Daniel Ricciardo,15,13,Lapped
+2024,12,Charles Leclerc,11,14,Lapped
+2024,12,Valtteri Bottas,16,15,Lapped
+2024,12,Esteban Ocon,18,16,Lapped
+2024,12,Sergio Pérez,20,17,Lapped
+2024,12,Guanyu Zhou,14,18,Lapped
+2024,12,George Russell,1,19,Retired
+2024,12,Pierre Gasly,19,20,Did not start
+2024,13,Oscar Piastri,2,1,Finished
+2024,13,Lando Norris,1,2,Finished
+2024,13,Lewis Hamilton,5,3,Finished
+2024,13,Charles Leclerc,6,4,Finished
+2024,13,Max Verstappen,3,5,Finished
+2024,13,Carlos Sainz,4,6,Finished
+2024,13,Sergio Pérez,16,7,Finished
+2024,13,George Russell,17,8,Finished
+2024,13,Yuki Tsunoda,10,9,Finished
+2024,13,Lance Stroll,8,10,Finished
+2024,13,Fernando Alonso,7,11,Finished
+2024,13,Daniel Ricciardo,9,12,Lapped
+2024,13,Nico Hülkenberg,11,13,Lapped
+2024,13,Alexander Albon,13,14,Lapped
+2024,13,Kevin Magnussen,15,15,Lapped
+2024,13,Valtteri Bottas,12,16,Lapped
+2024,13,Logan Sargeant,14,17,Lapped
+2024,13,Esteban Ocon,19,18,Lapped
+2024,13,Guanyu Zhou,18,19,Lapped
+2024,13,Pierre Gasly,20,20,Retired
+2024,14,Lewis Hamilton,3,1,Finished
+2024,14,Oscar Piastri,5,2,Finished
+2024,14,Charles Leclerc,1,3,Finished
+2024,14,Max Verstappen,11,4,Finished
+2024,14,Lando Norris,4,5,Finished
+2024,14,Carlos Sainz,7,6,Finished
+2024,14,Sergio Pérez,2,7,Finished
+2024,14,Fernando Alonso,8,8,Finished
+2024,14,Esteban Ocon,9,9,Finished
+2024,14,Daniel Ricciardo,13,10,Finished
+2024,14,Lance Stroll,15,11,Finished
+2024,14,Alexander Albon,10,12,Finished
+2024,14,Pierre Gasly,12,13,Finished
+2024,14,Kevin Magnussen,17,14,Finished
+2024,14,Valtteri Bottas,14,15,Finished
+2024,14,Yuki Tsunoda,20,16,Finished
+2024,14,Logan Sargeant,18,17,Finished
+2024,14,Nico Hülkenberg,16,18,Finished
+2024,14,Guanyu Zhou,19,19,Retired
+2024,14,George Russell,6,20,Disqualified
+2024,15,Lando Norris,1,1,Finished
+2024,15,Max Verstappen,2,2,Finished
+2024,15,Charles Leclerc,6,3,Finished
+2024,15,Oscar Piastri,3,4,Finished
+2024,15,Carlos Sainz,10,5,Finished
+2024,15,Sergio Pérez,5,6,Finished
+2024,15,George Russell,4,7,Finished
+2024,15,Lewis Hamilton,14,8,Finished
+2024,15,Pierre Gasly,9,9,Lapped
+2024,15,Fernando Alonso,7,10,Lapped
+2024,15,Nico Hülkenberg,12,11,Lapped
+2024,15,Daniel Ricciardo,13,12,Lapped
+2024,15,Lance Stroll,8,13,Lapped
+2024,15,Alexander Albon,19,14,Lapped
+2024,15,Esteban Ocon,15,15,Lapped
+2024,15,Logan Sargeant,18,16,Lapped
+2024,15,Yuki Tsunoda,11,17,Lapped
+2024,15,Kevin Magnussen,20,18,Lapped
+2024,15,Valtteri Bottas,16,19,Lapped
+2024,15,Guanyu Zhou,17,20,Lapped
+2024,16,Charles Leclerc,4,1,Finished
+2024,16,Oscar Piastri,2,2,Finished
+2024,16,Lando Norris,1,3,Finished
+2024,16,Carlos Sainz,5,4,Finished
+2024,16,Lewis Hamilton,6,5,Finished
+2024,16,Max Verstappen,7,6,Finished
+2024,16,George Russell,3,7,Finished
+2024,16,Sergio Pérez,8,8,Finished
+2024,16,Alexander Albon,9,9,Finished
+2024,16,Kevin Magnussen,13,10,Finished
+2024,16,Fernando Alonso,11,11,Finished
+2024,16,Franco Colapinto,18,12,Finished
+2024,16,Daniel Ricciardo,12,13,Finished
+2024,16,Esteban Ocon,15,14,Lapped
+2024,16,Pierre Gasly,14,15,Lapped
+2024,16,Valtteri Bottas,19,16,Lapped
+2024,16,Nico Hülkenberg,10,17,Lapped
+2024,16,Guanyu Zhou,20,18,Lapped
+2024,16,Lance Stroll,17,19,Lapped
+2024,16,Yuki Tsunoda,16,20,Retired
+2024,17,Oscar Piastri,2,1,Finished
+2024,17,Charles Leclerc,1,2,Finished
+2024,17,George Russell,5,3,Finished
+2024,17,Lando Norris,15,4,Finished
+2024,17,Max Verstappen,6,5,Finished
+2024,17,Fernando Alonso,7,6,Finished
+2024,17,Alexander Albon,9,7,Finished
+2024,17,Franco Colapinto,8,8,Finished
+2024,17,Lewis Hamilton,19,9,Finished
+2024,17,Oliver Bearman,10,10,Finished
+2024,17,Nico Hülkenberg,12,11,Finished
+2024,17,Pierre Gasly,18,12,Finished
+2024,17,Daniel Ricciardo,14,13,Finished
+2024,17,Guanyu Zhou,17,14,Finished
+2024,17,Esteban Ocon,20,15,Lapped
+2024,17,Valtteri Bottas,16,16,Lapped
+2024,17,Sergio Pérez,4,17,Retired
+2024,17,Carlos Sainz,3,18,Retired
+2024,17,Lance Stroll,13,19,Retired
+2024,17,Yuki Tsunoda,11,20,Retired
+2024,18,Lando Norris,1,1,Finished
+2024,18,Max Verstappen,2,2,Finished
+2024,18,Oscar Piastri,5,3,Finished
+2024,18,George Russell,4,4,Finished
+2024,18,Charles Leclerc,9,5,Finished
+2024,18,Lewis Hamilton,3,6,Finished
+2024,18,Carlos Sainz,10,7,Finished
+2024,18,Fernando Alonso,7,8,Lapped
+2024,18,Nico Hülkenberg,6,9,Lapped
+2024,18,Sergio Pérez,13,10,Lapped
+2024,18,Franco Colapinto,12,11,Lapped
+2024,18,Yuki Tsunoda,8,12,Lapped
+2024,18,Esteban Ocon,15,13,Lapped
+2024,18,Lance Stroll,17,14,Lapped
+2024,18,Guanyu Zhou,20,15,Lapped
+2024,18,Valtteri Bottas,19,16,Lapped
+2024,18,Pierre Gasly,18,17,Lapped
+2024,18,Daniel Ricciardo,16,18,Lapped
+2024,18,Kevin Magnussen,14,19,Retired
+2024,18,Alexander Albon,11,20,Retired
+2024,19,Charles Leclerc,4,1,Finished
+2024,19,Carlos Sainz,3,2,Finished
+2024,19,Max Verstappen,2,3,Finished
+2024,19,Lando Norris,1,4,Finished
+2024,19,Oscar Piastri,5,5,Finished
+2024,19,George Russell,20,6,Finished
+2024,19,Sergio Pérez,9,7,Finished
+2024,19,Nico Hülkenberg,11,8,Finished
+2024,19,Liam Lawson,19,9,Finished
+2024,19,Franco Colapinto,15,10,Finished
+2024,19,Kevin Magnussen,8,11,Finished
+2024,19,Pierre Gasly,6,12,Finished
+2024,19,Fernando Alonso,7,13,Lapped
+2024,19,Yuki Tsunoda,10,14,Lapped
+2024,19,Lance Stroll,13,15,Lapped
+2024,19,Alexander Albon,14,16,Lapped
+2024,19,Valtteri Bottas,16,17,Lapped
+2024,19,Esteban Ocon,12,18,Lapped
+2024,19,Guanyu Zhou,18,19,Lapped
+2024,19,Lewis Hamilton,17,20,Retired
+2024,20,Carlos Sainz,1,1,Finished
+2024,20,Lando Norris,3,2,Finished
+2024,20,Charles Leclerc,4,3,Finished
+2024,20,Lewis Hamilton,6,4,Finished
+2024,20,George Russell,5,5,Finished
+2024,20,Max Verstappen,2,6,Finished
+2024,20,Kevin Magnussen,7,7,Finished
+2024,20,Oscar Piastri,17,8,Finished
+2024,20,Nico Hülkenberg,10,9,Lapped
+2024,20,Pierre Gasly,8,10,Lapped
+2024,20,Lance Stroll,14,11,Lapped
+2024,20,Franco Colapinto,16,12,Lapped
+2024,20,Esteban Ocon,0,13,Lapped
+2024,20,Valtteri Bottas,15,14,Lapped
+2024,20,Guanyu Zhou,19,15,Lapped
+2024,20,Liam Lawson,12,16,Lapped
+2024,20,Sergio Pérez,18,17,Lapped
+2024,20,Fernando Alonso,13,18,Retired
+2024,20,Alexander Albon,9,19,Retired
+2024,20,Yuki Tsunoda,11,20,Retired
+2024,21,Max Verstappen,17,1,Finished
+2024,21,Esteban Ocon,4,2,Finished
+2024,21,Pierre Gasly,13,3,Finished
+2024,21,George Russell,2,4,Finished
+2024,21,Charles Leclerc,6,5,Finished
+2024,21,Lando Norris,1,6,Finished
+2024,21,Yuki Tsunoda,3,7,Finished
+2024,21,Oscar Piastri,8,8,Finished
+2024,21,Liam Lawson,5,9,Finished
+2024,21,Lewis Hamilton,14,10,Finished
+2024,21,Sergio Pérez,12,11,Finished
+2024,21,Oliver Bearman,15,12,Finished
+2024,21,Valtteri Bottas,11,13,Finished
+2024,21,Fernando Alonso,9,14,Finished
+2024,21,Guanyu Zhou,19,15,Finished
+2024,21,Carlos Sainz,20,16,Retired
+2024,21,Franco Colapinto,16,17,Retired
+2024,21,Alexander Albon,7,18,Did not start
+2024,21,Lance Stroll,10,19,Did not start
+2024,21,Nico Hülkenberg,18,20,Disqualified
+2024,22,George Russell,1,1,Finished
+2024,22,Lewis Hamilton,10,2,Finished
+2024,22,Carlos Sainz,2,3,Finished
+2024,22,Charles Leclerc,4,4,Finished
+2024,22,Max Verstappen,5,5,Finished
+2024,22,Lando Norris,6,6,Finished
+2024,22,Oscar Piastri,8,7,Finished
+2024,22,Nico Hülkenberg,9,8,Finished
+2024,22,Yuki Tsunoda,7,9,Finished
+2024,22,Sergio Pérez,15,10,Finished
+2024,22,Fernando Alonso,16,11,Finished
+2024,22,Kevin Magnussen,12,12,Finished
+2024,22,Guanyu Zhou,13,13,Finished
+2024,22,Franco Colapinto,20,14,Finished
+2024,22,Lance Stroll,18,15,Finished
+2024,22,Liam Lawson,14,16,Finished
+2024,22,Esteban Ocon,11,17,Lapped
+2024,22,Valtteri Bottas,19,18,Lapped
+2024,22,Alexander Albon,17,19,Retired
+2024,22,Pierre Gasly,3,20,Retired
+2024,23,Max Verstappen,2,1,Finished
+2024,23,Charles Leclerc,5,2,Finished
+2024,23,Oscar Piastri,4,3,Finished
+2024,23,George Russell,1,4,Finished
+2024,23,Pierre Gasly,11,5,Finished
+2024,23,Carlos Sainz,7,6,Finished
+2024,23,Fernando Alonso,8,7,Finished
+2024,23,Guanyu Zhou,12,8,Finished
+2024,23,Kevin Magnussen,10,9,Finished
+2024,23,Lando Norris,3,10,Finished
+2024,23,Valtteri Bottas,13,11,Finished
+2024,23,Lewis Hamilton,6,12,Finished
+2024,23,Yuki Tsunoda,14,13,Finished
+2024,23,Liam Lawson,17,14,Finished
+2024,23,Alexander Albon,16,15,Lapped
+2024,23,Nico Hülkenberg,18,16,Retired
+2024,23,Sergio Pérez,9,17,Retired
+2024,23,Lance Stroll,15,18,Retired
+2024,23,Franco Colapinto,19,19,Retired
+2024,23,Esteban Ocon,20,20,Retired
+2024,24,Lando Norris,1,1,Finished
+2024,24,Carlos Sainz,3,2,Finished
+2024,24,Charles Leclerc,19,3,Finished
+2024,24,Lewis Hamilton,16,4,Finished
+2024,24,George Russell,6,5,Finished
+2024,24,Max Verstappen,4,6,Finished
+2024,24,Pierre Gasly,5,7,Finished
+2024,24,Nico Hülkenberg,7,8,Finished
+2024,24,Fernando Alonso,8,9,Finished
+2024,24,Oscar Piastri,2,10,Finished
+2024,24,Alexander Albon,18,11,Lapped
+2024,24,Yuki Tsunoda,11,12,Lapped
+2024,24,Guanyu Zhou,15,13,Lapped
+2024,24,Lance Stroll,13,14,Lapped
+2024,24,Jack Doohan,17,15,Lapped
+2024,24,Kevin Magnussen,14,16,Lapped
+2024,24,Liam Lawson,12,17,Retired
+2024,24,Valtteri Bottas,9,18,Retired
+2024,24,Franco Colapinto,20,19,Retired
+2024,24,Sergio Pérez,10,20,Retired
+2025,1,Lando Norris,1,1,Finished
+2025,1,Max Verstappen,3,2,Finished
+2025,1,George Russell,4,3,Finished
+2025,1,Andrea Kimi Antonelli,16,4,Finished
+2025,1,Alexander Albon,6,5,Finished
+2025,1,Lance Stroll,13,6,Finished
+2025,1,Nico Hülkenberg,17,7,Finished
+2025,1,Charles Leclerc,7,8,Finished
+2025,1,Oscar Piastri,2,9,Finished
+2025,1,Lewis Hamilton,8,10,Finished
+2025,1,Pierre Gasly,9,11,Finished
+2025,1,Yuki Tsunoda,5,12,Finished
+2025,1,Esteban Ocon,19,13,Finished
+2025,1,Oliver Bearman,20,14,Finished
+2025,1,Liam Lawson,18,15,Retired
+2025,1,Gabriel Bortoleto,15,16,Retired
+2025,1,Fernando Alonso,12,17,Retired
+2025,1,Carlos Sainz,10,18,Retired
+2025,1,Jack Doohan,14,19,Retired
+2025,1,Isack Hadjar,11,20,Retired
+2025,2,Oscar Piastri,1,1,Finished
+2025,2,Lando Norris,3,2,Finished
+2025,2,George Russell,2,3,Finished
+2025,2,Max Verstappen,4,4,Finished
+2025,2,Esteban Ocon,11,5,Finished
+2025,2,Andrea Kimi Antonelli,8,6,Finished
+2025,2,Alexander Albon,10,7,Finished
+2025,2,Oliver Bearman,17,8,Finished
+2025,2,Lance Stroll,14,9,Finished
+2025,2,Carlos Sainz,15,10,Finished
+2025,2,Isack Hadjar,7,11,Finished
+2025,2,Liam Lawson,20,12,Finished
+2025,2,Jack Doohan,18,13,Finished
+2025,2,Gabriel Bortoleto,19,14,Lapped
+2025,2,Nico Hülkenberg,12,15,Lapped
+2025,2,Yuki Tsunoda,9,16,Lapped
+2025,2,Fernando Alonso,13,17,Retired
+2025,2,Charles Leclerc,6,18,Disqualified
+2025,2,Lewis Hamilton,5,19,Disqualified
+2025,2,Pierre Gasly,16,20,Disqualified
+2025,3,Max Verstappen,1,1,Finished
+2025,3,Lando Norris,2,2,Finished
+2025,3,Oscar Piastri,3,3,Finished
+2025,3,Charles Leclerc,4,4,Finished
+2025,3,George Russell,5,5,Finished
+2025,3,Andrea Kimi Antonelli,6,6,Finished
+2025,3,Lewis Hamilton,8,7,Finished
+2025,3,Isack Hadjar,7,8,Finished
+2025,3,Alexander Albon,9,9,Finished
+2025,3,Oliver Bearman,10,10,Finished
+2025,3,Fernando Alonso,12,11,Finished
+2025,3,Yuki Tsunoda,14,12,Finished
+2025,3,Pierre Gasly,11,13,Finished
+2025,3,Carlos Sainz,15,14,Finished
+2025,3,Jack Doohan,19,15,Finished
+2025,3,Nico Hülkenberg,16,16,Finished
+2025,3,Liam Lawson,13,17,Finished
+2025,3,Esteban Ocon,18,18,Finished
+2025,3,Gabriel Bortoleto,17,19,Finished
+2025,3,Lance Stroll,20,20,Lapped
+2025,4,Oscar Piastri,1,1,Finished
+2025,4,George Russell,3,2,Finished
+2025,4,Lando Norris,6,3,Finished
+2025,4,Charles Leclerc,2,4,Finished
+2025,4,Lewis Hamilton,9,5,Finished
+2025,4,Max Verstappen,7,6,Finished
+2025,4,Pierre Gasly,4,7,Finished
+2025,4,Esteban Ocon,14,8,Finished
+2025,4,Yuki Tsunoda,10,9,Finished
+2025,4,Oliver Bearman,20,10,Finished
+2025,4,Andrea Kimi Antonelli,5,11,Finished
+2025,4,Alexander Albon,15,12,Finished
+2025,4,Isack Hadjar,12,13,Finished
+2025,4,Jack Doohan,11,14,Finished
+2025,4,Fernando Alonso,13,15,Finished
+2025,4,Liam Lawson,17,16,Finished
+2025,4,Lance Stroll,19,17,Finished
+2025,4,Gabriel Bortoleto,18,18,Finished
+2025,4,Carlos Sainz,8,19,Retired
+2025,4,Nico Hülkenberg,16,20,Disqualified
+2025,5,Oscar Piastri,2,1,Finished
+2025,5,Max Verstappen,1,2,Finished
+2025,5,Charles Leclerc,4,3,Finished
+2025,5,Lando Norris,10,4,Finished
+2025,5,George Russell,3,5,Finished
+2025,5,Andrea Kimi Antonelli,5,6,Finished
+2025,5,Lewis Hamilton,7,7,Finished
+2025,5,Carlos Sainz,6,8,Finished
+2025,5,Alexander Albon,11,9,Finished
+2025,5,Isack Hadjar,14,10,Finished
+2025,5,Fernando Alonso,13,11,Finished
+2025,5,Liam Lawson,12,12,Finished
+2025,5,Oliver Bearman,15,13,Finished
+2025,5,Esteban Ocon,19,14,Finished
+2025,5,Nico Hülkenberg,18,15,Lapped
+2025,5,Lance Stroll,16,16,Lapped
+2025,5,Jack Doohan,17,17,Lapped
+2025,5,Gabriel Bortoleto,20,18,Lapped
+2025,5,Yuki Tsunoda,8,19,Retired
+2025,5,Pierre Gasly,9,20,Retired
+2025,6,Oscar Piastri,4,1,Finished
+2025,6,Lando Norris,2,2,Finished
+2025,6,George Russell,5,3,Finished
+2025,6,Max Verstappen,1,4,Finished
+2025,6,Alexander Albon,7,5,Finished
+2025,6,Andrea Kimi Antonelli,3,6,Finished
+2025,6,Charles Leclerc,8,7,Finished
+2025,6,Lewis Hamilton,12,8,Finished
+2025,6,Carlos Sainz,6,9,Finished
+2025,6,Yuki Tsunoda,10,10,Finished
+2025,6,Isack Hadjar,11,11,Finished
+2025,6,Esteban Ocon,9,12,Finished
+2025,6,Pierre Gasly,20,13,Finished
+2025,6,Nico Hülkenberg,16,14,Lapped
+2025,6,Fernando Alonso,17,15,Lapped
+2025,6,Lance Stroll,18,16,Lapped
+2025,6,Liam Lawson,15,17,Retired
+2025,6,Gabriel Bortoleto,13,18,Retired
+2025,6,Oliver Bearman,19,19,Retired
+2025,6,Jack Doohan,14,20,Retired
+2025,7,Max Verstappen,2,1,Finished
+2025,7,Lando Norris,4,2,Finished
+2025,7,Oscar Piastri,1,3,Finished
+2025,7,Lewis Hamilton,12,4,Finished
+2025,7,Alexander Albon,7,5,Finished
+2025,7,Charles Leclerc,11,6,Finished
+2025,7,George Russell,3,7,Finished
+2025,7,Carlos Sainz,6,8,Finished
+2025,7,Isack Hadjar,9,9,Finished
+2025,7,Yuki Tsunoda,20,10,Finished
+2025,7,Fernando Alonso,5,11,Finished
+2025,7,Nico Hülkenberg,17,12,Finished
+2025,7,Pierre Gasly,10,13,Finished
+2025,7,Liam Lawson,15,14,Finished
+2025,7,Lance Stroll,8,15,Finished
+2025,7,Franco Colapinto,16,16,Finished
+2025,7,Oliver Bearman,19,17,Finished
+2025,7,Gabriel Bortoleto,14,18,Finished
+2025,7,Andrea Kimi Antonelli,13,19,Retired
+2025,7,Esteban Ocon,18,20,Retired
+2025,8,Lando Norris,1,1,Finished
+2025,8,Charles Leclerc,2,2,Finished
+2025,8,Oscar Piastri,3,3,Finished
+2025,8,Max Verstappen,4,4,Finished
+2025,8,Lewis Hamilton,7,5,Finished
+2025,8,Isack Hadjar,5,6,Lapped
+2025,8,Esteban Ocon,8,7,Lapped
+2025,8,Liam Lawson,9,8,Lapped
+2025,8,Alexander Albon,10,9,Lapped
+2025,8,Carlos Sainz,11,10,Lapped
+2025,8,George Russell,14,11,Lapped
+2025,8,Oliver Bearman,20,12,Lapped
+2025,8,Franco Colapinto,18,13,Lapped
+2025,8,Gabriel Bortoleto,16,14,Lapped
+2025,8,Lance Stroll,19,15,Lapped
+2025,8,Nico Hülkenberg,13,16,Lapped
+2025,8,Yuki Tsunoda,12,17,Lapped
+2025,8,Andrea Kimi Antonelli,15,18,Lapped
+2025,8,Fernando Alonso,6,19,Retired
+2025,8,Pierre Gasly,17,20,Retired
+2025,9,Oscar Piastri,1,1,Finished
+2025,9,Lando Norris,2,2,Finished
+2025,9,Charles Leclerc,7,3,Finished
+2025,9,George Russell,4,4,Finished
+2025,9,Nico Hülkenberg,15,5,Finished
+2025,9,Lewis Hamilton,5,6,Finished
+2025,9,Isack Hadjar,9,7,Finished
+2025,9,Pierre Gasly,8,8,Finished
+2025,9,Fernando Alonso,10,9,Finished
+2025,9,Max Verstappen,3,10,Finished
+2025,9,Liam Lawson,13,11,Finished
+2025,9,Gabriel Bortoleto,12,12,Finished
+2025,9,Yuki Tsunoda,19,13,Finished
+2025,9,Carlos Sainz,17,14,Finished
+2025,9,Franco Colapinto,18,15,Finished
+2025,9,Esteban Ocon,16,16,Finished
+2025,9,Oliver Bearman,14,17,Finished
+2025,9,Andrea Kimi Antonelli,6,18,Retired
+2025,9,Alexander Albon,11,19,Retired
+2025,10,George Russell,1,1,Finished
+2025,10,Max Verstappen,2,2,Finished
+2025,10,Andrea Kimi Antonelli,4,3,Finished
+2025,10,Oscar Piastri,3,4,Finished
+2025,10,Charles Leclerc,8,5,Finished
+2025,10,Lewis Hamilton,5,6,Finished
+2025,10,Fernando Alonso,6,7,Finished
+2025,10,Nico Hülkenberg,11,8,Finished
+2025,10,Esteban Ocon,14,9,Lapped
+2025,10,Carlos Sainz,16,10,Lapped
+2025,10,Oliver Bearman,13,11,Lapped
+2025,10,Yuki Tsunoda,18,12,Lapped
+2025,10,Franco Colapinto,10,13,Lapped
+2025,10,Gabriel Bortoleto,15,14,Lapped
+2025,10,Pierre Gasly,20,15,Lapped
+2025,10,Isack Hadjar,12,16,Lapped
+2025,10,Lance Stroll,17,17,Lapped
+2025,10,Lando Norris,7,18,Retired
+2025,10,Liam Lawson,19,19,Retired
+2025,10,Alexander Albon,9,20,Retired
+2025,11,Lando Norris,1,1,Finished
+2025,11,Oscar Piastri,3,2,Finished
+2025,11,Charles Leclerc,2,3,Finished
+2025,11,Lewis Hamilton,4,4,Finished
+2025,11,George Russell,5,5,Finished
+2025,11,Liam Lawson,6,6,Finished
+2025,11,Fernando Alonso,11,7,Lapped
+2025,11,Gabriel Bortoleto,8,8,Lapped
+2025,11,Nico Hülkenberg,20,9,Lapped
+2025,11,Esteban Ocon,17,10,Lapped
+2025,11,Oliver Bearman,15,11,Lapped
+2025,11,Isack Hadjar,13,12,Lapped
+2025,11,Pierre Gasly,10,13,Lapped
+2025,11,Lance Stroll,16,14,Lapped
+2025,11,Franco Colapinto,14,15,Lapped
+2025,11,Yuki Tsunoda,18,16,Lapped
+2025,11,Alexander Albon,12,17,Retired
+2025,11,Max Verstappen,7,18,Retired
+2025,11,Andrea Kimi Antonelli,9,19,Retired
+2025,11,Carlos Sainz,19,20,Did not start
+2025,12,Lando Norris,3,1,Finished
+2025,12,Oscar Piastri,2,2,Finished
+2025,12,Nico Hülkenberg,19,3,Finished
+2025,12,Lewis Hamilton,5,4,Finished
+2025,12,Max Verstappen,1,5,Finished
+2025,12,Pierre Gasly,8,6,Finished
+2025,12,Lance Stroll,17,7,Finished
+2025,12,Alexander Albon,13,8,Finished
+2025,12,Fernando Alonso,7,9,Finished
+2025,12,George Russell,4,10,Finished
+2025,12,Oliver Bearman,18,11,Finished
+2025,12,Carlos Sainz,9,12,Finished
+2025,12,Esteban Ocon,14,13,Finished
+2025,12,Charles Leclerc,6,14,Finished
+2025,12,Yuki Tsunoda,11,15,Lapped
+2025,12,Andrea Kimi Antonelli,10,16,Retired
+2025,12,Isack Hadjar,12,17,Retired
+2025,12,Gabriel Bortoleto,16,18,Retired
+2025,12,Liam Lawson,15,19,Retired
+2025,12,Franco Colapinto,20,20,Did not start
+2025,13,Oscar Piastri,2,1,Finished
+2025,13,Lando Norris,1,2,Finished
+2025,13,Charles Leclerc,3,3,Finished
+2025,13,Max Verstappen,4,4,Finished
+2025,13,George Russell,6,5,Finished
+2025,13,Alexander Albon,5,6,Finished
+2025,13,Lewis Hamilton,18,7,Finished
+2025,13,Liam Lawson,9,8,Finished
+2025,13,Gabriel Bortoleto,10,9,Finished
+2025,13,Pierre Gasly,13,10,Finished
+2025,13,Oliver Bearman,12,11,Finished
+2025,13,Nico Hülkenberg,14,12,Finished
+2025,13,Yuki Tsunoda,7,13,Finished
+2025,13,Lance Stroll,16,14,Finished
+2025,13,Esteban Ocon,11,15,Finished
+2025,13,Andrea Kimi Antonelli,19,16,Finished
+2025,13,Fernando Alonso,20,17,Finished
+2025,13,Carlos Sainz,17,18,Finished
+2025,13,Franco Colapinto,15,19,Finished
+2025,13,Isack Hadjar,8,20,Lapped
+2025,14,Lando Norris,3,1,Finished
+2025,14,Oscar Piastri,2,2,Finished
+2025,14,George Russell,4,3,Finished
+2025,14,Charles Leclerc,1,4,Finished
+2025,14,Fernando Alonso,5,5,Finished
+2025,14,Gabriel Bortoleto,7,6,Finished
+2025,14,Lance Stroll,6,7,Finished
+2025,14,Liam Lawson,9,8,Finished
+2025,14,Max Verstappen,8,9,Finished
+2025,14,Andrea Kimi Antonelli,15,10,Lapped
+2025,14,Isack Hadjar,10,11,Lapped
+2025,14,Lewis Hamilton,12,12,Lapped
+2025,14,Nico Hülkenberg,18,13,Lapped
+2025,14,Carlos Sainz,13,14,Lapped
+2025,14,Alexander Albon,19,15,Lapped
+2025,14,Esteban Ocon,17,16,Lapped
+2025,14,Yuki Tsunoda,20,17,Lapped
+2025,14,Franco Colapinto,14,18,Lapped
+2025,14,Pierre Gasly,16,19,Lapped
+2025,14,Oliver Bearman,11,20,Retired
+2025,15,Oscar Piastri,1,1,Finished
+2025,15,Max Verstappen,3,2,Finished
+2025,15,Isack Hadjar,4,3,Finished
+2025,15,George Russell,5,4,Finished
+2025,15,Alexander Albon,15,5,Finished
+2025,15,Oliver Bearman,20,6,Finished
+2025,15,Lance Stroll,19,7,Finished
+2025,15,Fernando Alonso,10,8,Finished
+2025,15,Yuki Tsunoda,12,9,Finished
+2025,15,Esteban Ocon,18,10,Finished
+2025,15,Franco Colapinto,16,11,Finished
+2025,15,Liam Lawson,8,12,Finished
+2025,15,Carlos Sainz,9,13,Finished
+2025,15,Nico Hülkenberg,17,14,Finished
+2025,15,Gabriel Bortoleto,13,15,Finished
+2025,15,Andrea Kimi Antonelli,11,16,Finished
+2025,15,Pierre Gasly,14,17,Finished
+2025,15,Lando Norris,2,18,Retired
+2025,15,Charles Leclerc,6,19,Retired
+2025,15,Lewis Hamilton,7,20,Retired
+2025,16,Max Verstappen,1,1,Finished
+2025,16,Lando Norris,2,2,Finished
+2025,16,Oscar Piastri,3,3,Finished
+2025,16,Charles Leclerc,4,4,Finished
+2025,16,George Russell,5,5,Finished
+2025,16,Lewis Hamilton,10,6,Finished
+2025,16,Alexander Albon,14,7,Finished
+2025,16,Gabriel Bortoleto,7,8,Finished
+2025,16,Andrea Kimi Antonelli,6,9,Finished
+2025,16,Isack Hadjar,19,10,Finished
+2025,16,Carlos Sainz,13,11,Finished
+2025,16,Oliver Bearman,11,12,Finished
+2025,16,Yuki Tsunoda,9,13,Finished
+2025,16,Liam Lawson,18,14,Finished
+2025,16,Esteban Ocon,15,15,Lapped
+2025,16,Pierre Gasly,20,16,Lapped
+2025,16,Franco Colapinto,17,17,Lapped
+2025,16,Lance Stroll,16,18,Lapped
+2025,16,Fernando Alonso,8,19,Retired
+2025,16,Nico Hülkenberg,12,20,Did not start
+2025,17,Max Verstappen,1,1,Finished
+2025,17,George Russell,5,2,Finished
+2025,17,Carlos Sainz,2,3,Finished
+2025,17,Andrea Kimi Antonelli,4,4,Finished
+2025,17,Liam Lawson,3,5,Finished
+2025,17,Yuki Tsunoda,6,6,Finished
+2025,17,Lando Norris,7,7,Finished
+2025,17,Lewis Hamilton,12,8,Finished
+2025,17,Charles Leclerc,10,9,Finished
+2025,17,Isack Hadjar,8,10,Finished
+2025,17,Gabriel Bortoleto,13,11,Finished
+2025,17,Oliver Bearman,15,12,Finished
+2025,17,Alexander Albon,19,13,Finished
+2025,17,Esteban Ocon,20,14,Finished
+2025,17,Fernando Alonso,11,15,Finished
+2025,17,Nico Hülkenberg,17,16,Finished
+2025,17,Lance Stroll,14,17,Finished
+2025,17,Pierre Gasly,18,18,Lapped
+2025,17,Franco Colapinto,16,19,Lapped
+2025,17,Oscar Piastri,9,20,Retired
+2025,18,George Russell,1,1,Finished
+2025,18,Max Verstappen,2,2,Finished
+2025,18,Lando Norris,5,3,Finished
+2025,18,Oscar Piastri,3,4,Finished
+2025,18,Andrea Kimi Antonelli,4,5,Finished
+2025,18,Charles Leclerc,7,6,Finished
+2025,18,Fernando Alonso,10,7,Finished
+2025,18,Lewis Hamilton,6,8,Finished
+2025,18,Oliver Bearman,9,9,Finished
+2025,18,Carlos Sainz,18,10,Lapped
+2025,18,Isack Hadjar,8,11,Lapped
+2025,18,Yuki Tsunoda,13,12,Lapped
+2025,18,Lance Stroll,15,13,Lapped
+2025,18,Alexander Albon,20,14,Lapped
+2025,18,Liam Lawson,12,15,Lapped
+2025,18,Franco Colapinto,16,16,Lapped
+2025,18,Gabriel Bortoleto,14,17,Lapped
+2025,18,Esteban Ocon,17,18,Lapped
+2025,18,Pierre Gasly,19,19,Lapped
+2025,18,Nico Hülkenberg,11,20,Lapped
+2025,19,Max Verstappen,1,1,Finished
+2025,19,Lando Norris,2,2,Finished
+2025,19,Charles Leclerc,3,3,Finished
+2025,19,Lewis Hamilton,5,4,Finished
+2025,19,Oscar Piastri,6,5,Finished
+2025,19,George Russell,4,6,Finished
+2025,19,Yuki Tsunoda,13,7,Finished
+2025,19,Nico Hülkenberg,11,8,Finished
+2025,19,Oliver Bearman,8,9,Finished
+2025,19,Fernando Alonso,10,10,Finished
+2025,19,Liam Lawson,12,11,Finished
+2025,19,Lance Stroll,19,12,Finished
+2025,19,Andrea Kimi Antonelli,7,13,Finished
+2025,19,Alexander Albon,18,14,Finished
+2025,19,Esteban Ocon,17,15,Finished
+2025,19,Isack Hadjar,20,16,Finished
+2025,19,Franco Colapinto,15,17,Lapped
+2025,19,Gabriel Bortoleto,16,18,Lapped
+2025,19,Pierre Gasly,14,19,Lapped
+2025,19,Carlos Sainz,9,20,Retired
+2025,20,Lando Norris,1,1,Finished
+2025,20,Charles Leclerc,2,2,Finished
+2025,20,Max Verstappen,5,3,Finished
+2025,20,Oliver Bearman,9,4,Finished
+2025,20,Oscar Piastri,7,5,Finished
+2025,20,Andrea Kimi Antonelli,6,6,Finished
+2025,20,George Russell,4,7,Finished
+2025,20,Lewis Hamilton,3,8,Finished
+2025,20,Esteban Ocon,11,9,Finished
+2025,20,Gabriel Bortoleto,16,10,Finished
+2025,20,Yuki Tsunoda,10,11,Finished
+2025,20,Alexander Albon,17,12,Lapped
+2025,20,Isack Hadjar,8,13,Lapped
+2025,20,Lance Stroll,19,14,Lapped
+2025,20,Pierre Gasly,18,15,Lapped
+2025,20,Franco Colapinto,20,16,Lapped
+2025,20,Carlos Sainz,12,17,Retired
+2025,20,Fernando Alonso,14,18,Retired
+2025,20,Nico Hülkenberg,13,19,Retired
+2025,20,Liam Lawson,15,20,Retired
+2025,21,Lando Norris,1,1,Finished
+2025,21,Andrea Kimi Antonelli,2,2,Finished
+2025,21,Max Verstappen,19,3,Finished
+2025,21,George Russell,6,4,Finished
+2025,21,Oscar Piastri,4,5,Finished
+2025,21,Oliver Bearman,8,6,Finished
+2025,21,Liam Lawson,7,7,Finished
+2025,21,Isack Hadjar,5,8,Finished
+2025,21,Nico Hülkenberg,10,9,Finished
+2025,21,Pierre Gasly,9,10,Finished
+2025,21,Alexander Albon,12,11,Finished
+2025,21,Esteban Ocon,20,12,Finished
+2025,21,Carlos Sainz,15,13,Finished
+2025,21,Fernando Alonso,11,14,Finished
+2025,21,Franco Colapinto,16,15,Finished
+2025,21,Lance Stroll,14,16,Finished
+2025,21,Yuki Tsunoda,17,17,Finished
+2025,21,Lewis Hamilton,13,18,Retired
+2025,21,Charles Leclerc,3,19,Retired
+2025,21,Gabriel Bortoleto,18,20,Retired
+2025,22,Max Verstappen,2,1,Finished
+2025,22,George Russell,4,2,Finished
+2025,22,Andrea Kimi Antonelli,17,3,Finished
+2025,22,Charles Leclerc,9,4,Finished
+2025,22,Carlos Sainz,3,5,Finished
+2025,22,Isack Hadjar,8,6,Finished
+2025,22,Nico Hülkenberg,11,7,Finished
+2025,22,Lewis Hamilton,19,8,Finished
+2025,22,Esteban Ocon,13,9,Finished
+2025,22,Oliver Bearman,14,10,Finished
+2025,22,Fernando Alonso,7,11,Finished
+2025,22,Yuki Tsunoda,20,12,Finished
+2025,22,Pierre Gasly,10,13,Finished
+2025,22,Liam Lawson,6,14,Lapped
+2025,22,Franco Colapinto,15,15,Lapped
+2025,22,Alexander Albon,16,16,Retired
+2025,22,Gabriel Bortoleto,18,17,Retired
+2025,22,Lance Stroll,12,18,Retired
+2025,22,Lando Norris,1,19,Disqualified
+2025,22,Oscar Piastri,5,20,Disqualified
+2025,23,Max Verstappen,3,1,Finished
+2025,23,Oscar Piastri,1,2,Finished
+2025,23,Carlos Sainz,7,3,Finished
+2025,23,Lando Norris,2,4,Finished
+2025,23,Andrea Kimi Antonelli,5,5,Finished
+2025,23,George Russell,4,6,Finished
+2025,23,Fernando Alonso,8,7,Finished
+2025,23,Charles Leclerc,10,8,Finished
+2025,23,Liam Lawson,12,9,Finished
+2025,23,Yuki Tsunoda,15,10,Finished
+2025,23,Alexander Albon,14,11,Finished
+2025,23,Lewis Hamilton,17,12,Finished
+2025,23,Gabriel Bortoleto,19,13,Finished
+2025,23,Franco Colapinto,20,14,Lapped
+2025,23,Esteban Ocon,16,15,Lapped
+2025,23,Pierre Gasly,9,16,Lapped
+2025,23,Lance Stroll,18,17,Retired
+2025,23,Isack Hadjar,6,18,Retired
+2025,23,Oliver Bearman,13,19,Retired
+2025,23,Nico Hülkenberg,11,20,Retired
+2025,24,Max Verstappen,1,1,Finished
+2025,24,Oscar Piastri,3,2,Finished
+2025,24,Lando Norris,2,3,Finished
+2025,24,Charles Leclerc,5,4,Finished
+2025,24,George Russell,4,5,Finished
+2025,24,Fernando Alonso,6,6,Finished
+2025,24,Esteban Ocon,8,7,Finished
+2025,24,Lewis Hamilton,16,8,Finished
+2025,24,Nico Hülkenberg,18,9,Finished
+2025,24,Lance Stroll,15,10,Finished
+2025,24,Gabriel Bortoleto,7,11,Finished
+2025,24,Oliver Bearman,11,12,Finished
+2025,24,Carlos Sainz,12,13,Finished
+2025,24,Yuki Tsunoda,10,14,Finished
+2025,24,Andrea Kimi Antonelli,14,15,Finished
+2025,24,Alexander Albon,17,16,Finished
+2025,24,Isack Hadjar,9,17,Lapped
+2025,24,Liam Lawson,13,18,Lapped
+2025,24,Pierre Gasly,19,19,Lapped
+2025,24,Franco Colapinto,20,20,Lapped
+2026,1,George Russell,1,1,Finished
+2026,1,Andrea Kimi Antonelli,2,2,Finished
+2026,1,Charles Leclerc,4,3,Finished
+2026,1,Lewis Hamilton,7,4,Finished
+2026,1,Lando Norris,6,5,Finished
+2026,1,Max Verstappen,20,6,Finished
+2026,1,Oliver Bearman,12,7,Lapped
+2026,1,Arvid Lindblad,9,8,Lapped
+2026,1,Gabriel Bortoleto,10,9,Lapped
+2026,1,Pierre Gasly,14,10,Lapped
+2026,1,Esteban Ocon,13,11,Lapped
+2026,1,Alexander Albon,15,12,Lapped
+2026,1,Liam Lawson,8,13,Lapped
+2026,1,Franco Colapinto,16,14,Lapped
+2026,1,Carlos Sainz,21,15,Lapped
+2026,1,Sergio Pérez,18,16,Lapped
+2026,1,Lance Stroll,22,17,Lapped
+2026,1,Fernando Alonso,17,18,Retired
+2026,1,Valtteri Bottas,19,19,Retired
+2026,1,Isack Hadjar,3,20,Retired
+2026,1,Oscar Piastri,5,21,Did not start
+2026,1,Nico Hülkenberg,11,22,Did not start
+2026,2,Andrea Kimi Antonelli,1,1,Finished
+2026,2,George Russell,2,2,Finished
+2026,2,Lewis Hamilton,3,3,Finished
+2026,2,Charles Leclerc,4,4,Finished
+2026,2,Oliver Bearman,10,5,Finished
+2026,2,Pierre Gasly,7,6,Finished
+2026,2,Liam Lawson,14,7,Finished
+2026,2,Isack Hadjar,9,8,Finished
+2026,2,Carlos Sainz,17,9,Lapped
+2026,2,Franco Colapinto,12,10,Lapped
+2026,2,Nico Hülkenberg,11,11,Lapped
+2026,2,Arvid Lindblad,15,12,Lapped
+2026,2,Valtteri Bottas,19,13,Lapped
+2026,2,Esteban Ocon,13,14,Lapped
+2026,2,Sergio Pérez,21,15,Lapped
+2026,2,Max Verstappen,8,16,Retired
+2026,2,Fernando Alonso,18,17,Retired
+2026,2,Lance Stroll,20,18,Retired
+2026,2,Oscar Piastri,5,19,Did not start
+2026,2,Lando Norris,6,20,Did not start
+2026,2,Gabriel Bortoleto,16,21,Did not start
+2026,2,Alexander Albon,22,22,Did not start
+2026,3,Andrea Kimi Antonelli,1,1,Finished
+2026,3,Oscar Piastri,3,2,Finished
+2026,3,Charles Leclerc,4,3,Finished
+2026,3,George Russell,2,4,Finished
+2026,3,Lando Norris,5,5,Finished
+2026,3,Lewis Hamilton,6,6,Finished
+2026,3,Pierre Gasly,7,7,Finished
+2026,3,Max Verstappen,11,8,Finished
+2026,3,Liam Lawson,14,9,Finished
+2026,3,Esteban Ocon,12,10,Finished
+2026,3,Nico Hülkenberg,13,11,Finished
+2026,3,Isack Hadjar,8,12,Finished
+2026,3,Gabriel Bortoleto,9,13,Finished
+2026,3,Arvid Lindblad,10,14,Finished
+2026,3,Carlos Sainz,16,15,Finished
+2026,3,Franco Colapinto,15,16,Finished
+2026,3,Sergio Pérez,19,17,Finished
+2026,3,Fernando Alonso,21,18,Lapped
+2026,3,Valtteri Bottas,20,19,Lapped
+2026,3,Alexander Albon,17,20,Lapped
+2026,3,Lance Stroll,22,21,Retired
+2026,3,Oliver Bearman,18,22,Retired
+2026,4,Andrea Kimi Antonelli,1,1,Finished
+2026,4,Lando Norris,4,2,Finished
+2026,4,Oscar Piastri,7,3,Finished
+2026,4,George Russell,5,4,Finished
+2026,4,Max Verstappen,2,5,Finished
+2026,4,Lewis Hamilton,6,6,Finished
+2026,4,Franco Colapinto,8,7,Finished
+2026,4,Charles Leclerc,3,8,Finished
+2026,4,Carlos Sainz,13,9,Finished
+2026,4,Alexander Albon,15,10,Finished
+2026,4,Oliver Bearman,12,11,Lapped
+2026,4,Gabriel Bortoleto,21,12,Lapped
+2026,4,Esteban Ocon,14,13,Lapped
+2026,4,Arvid Lindblad,16,14,Lapped
+2026,4,Fernando Alonso,17,15,Lapped
+2026,4,Sergio Pérez,20,16,Lapped
+2026,4,Lance Stroll,18,17,Lapped
+2026,4,Valtteri Bottas,19,18,Lapped
+2026,4,Nico Hülkenberg,10,19,Retired
+2026,4,Liam Lawson,11,20,Retired
+2026,4,Pierre Gasly,9,21,Retired
+2026,4,Isack Hadjar,22,22,Retired
+2026,5,Andrea Kimi Antonelli,2,1,Finished
+2026,5,Lewis Hamilton,5,2,Finished
+2026,5,Max Verstappen,6,3,Finished
+2026,5,Charles Leclerc,8,4,Finished
+2026,5,Isack Hadjar,7,5,Lapped
+2026,5,Franco Colapinto,10,6,Lapped
+2026,5,Liam Lawson,12,7,Lapped
+2026,5,Pierre Gasly,14,8,Lapped
+2026,5,Carlos Sainz,15,9,Lapped
+2026,5,Oliver Bearman,16,10,Lapped
+2026,5,Oscar Piastri,4,11,Lapped
+2026,5,Nico Hülkenberg,11,12,Lapped
+2026,5,Gabriel Bortoleto,13,13,Lapped
+2026,5,Esteban Ocon,17,14,Lapped
+2026,5,Lance Stroll,22,15,Lapped
+2026,5,Valtteri Bottas,21,16,Lapped
+2026,5,Sergio Pérez,20,17,Retired
+2026,5,Lando Norris,3,18,Retired
+2026,5,George Russell,1,19,Retired
+2026,5,Fernando Alonso,19,20,Retired
+2026,5,Alexander Albon,18,21,Retired
+2026,5,Arvid Lindblad,9,22,Did not start
+2026,6,Andrea Kimi Antonelli,1,1,Finished
+2026,6,Lewis Hamilton,3,2,Finished
+2026,6,Pierre Gasly,9,3,Finished
+2026,6,Isack Hadjar,5,4,Finished
+2026,6,Oscar Piastri,7,5,Finished
+2026,6,Liam Lawson,10,6,Finished
+2026,6,Arvid Lindblad,15,7,Finished
+2026,6,Alexander Albon,11,8,Finished
+2026,6,Esteban Ocon,17,9,Finished
+2026,6,Fernando Alonso,21,10,Finished
+2026,6,Gabriel Bortoleto,16,11,Finished
+2026,6,George Russell,6,12,Finished
+2026,6,Nico Hülkenberg,13,13,Finished
+2026,6,Franco Colapinto,14,14,Finished
+2026,6,Sergio Pérez,18,15,Finished
+2026,6,Carlos Sainz,12,16,Retired
+2026,6,Charles Leclerc,4,17,Retired
+2026,6,Lance Stroll,22,18,Retired
+2026,6,Lando Norris,8,19,Retired
+2026,6,Oliver Bearman,19,20,Retired
+2026,6,Valtteri Bottas,20,21,Retired
+2026,6,Max Verstappen,2,22,Retired
+2026,7,Lewis Hamilton,2,1,Finished
+2026,7,George Russell,1,2,Finished
+2026,7,Lando Norris,4,3,Finished
+2026,7,Max Verstappen,5,4,Finished
+2026,7,Oscar Piastri,7,5,Finished
+2026,7,Isack Hadjar,6,6,Lapped
+2026,7,Pierre Gasly,14,7,Lapped
+2026,7,Liam Lawson,8,8,Lapped
+2026,7,Arvid Lindblad,11,9,Lapped
+2026,7,Franco Colapinto,13,10,Lapped
+2026,7,Gabriel Bortoleto,12,11,Lapped
+2026,7,Carlos Sainz,16,12,Lapped
+2026,7,Esteban Ocon,17,13,Lapped
+2026,7,Sergio Pérez,19,14,Lapped
+2026,7,Charles Leclerc,10,15,Retired
+2026,7,Andrea Kimi Antonelli,3,16,Retired
+2026,7,Oliver Bearman,15,17,Retired
+2026,7,Alexander Albon,18,18,Lapped
+2026,7,Fernando Alonso,22,19,Retired
+2026,7,Nico Hülkenberg,9,20,Retired
+2026,7,Valtteri Bottas,20,21,Retired
+2026,7,Lance Stroll,21,22,Retired
+2026,8,George Russell,1,1,Finished
+2026,8,Max Verstappen,5,2,Finished
+2026,8,Andrea Kimi Antonelli,4,3,Finished
+2026,8,Oscar Piastri,7,4,Finished
+2026,8,Lewis Hamilton,3,5,Finished
+2026,8,Isack Hadjar,8,6,Finished
+2026,8,Lando Norris,6,7,Finished
+2026,8,Charles Leclerc,2,8,Finished
+2026,8,Liam Lawson,9,9,Lapped
+2026,8,Arvid Lindblad,10,10,Lapped
+2026,8,Gabriel Bortoleto,12,11,Lapped
+2026,8,Nico Hülkenberg,14,12,Lapped
+2026,8,Pierre Gasly,11,13,Lapped
+2026,8,Oliver Bearman,13,14,Lapped
+2026,8,Franco Colapinto,16,15,Lapped
+2026,8,Esteban Ocon,15,16,Lapped
+2026,8,Alexander Albon,18,17,Lapped
+2026,8,Fernando Alonso,21,18,Lapped
+2026,8,Lance Stroll,22,19,Retired
+2026,8,Carlos Sainz,17,20,Retired
+2026,8,Sergio Pérez,19,21,Retired
+2026,8,Valtteri Bottas,20,22,Retired
+2026,9,Charles Leclerc,2,1,Finished
+2026,9,George Russell,4,2,Finished
+2026,9,Lewis Hamilton,3,3,Finished
+2026,9,Lando Norris,6,4,Finished
+2026,9,Isack Hadjar,5,5,Finished
+2026,9,Liam Lawson,10,6,Finished
+2026,9,Arvid Lindblad,9,7,Finished
+2026,9,Gabriel Bortoleto,11,8,Finished
+2026,9,Franco Colapinto,19,9,Finished
+2026,9,Pierre Gasly,15,10,Finished
+2026,9,Oscar Piastri,8,11,Finished
+2026,9,Oliver Bearman,13,12,Finished
+2026,9,Esteban Ocon,17,13,Finished
+2026,9,Sergio Pérez,20,14,Finished
+2026,9,Andrea Kimi Antonelli,1,15,Finished
+2026,9,Valtteri Bottas,18,16,Finished
+2026,9,Carlos Sainz,14,17,Lapped
+2026,9,Fernando Alonso,21,18,Lapped
+2026,9,Lance Stroll,22,19,Lapped
+2026,9,Max Verstappen,7,20,Retired
+2026,9,Alexander Albon,16,21,Retired
+2026,9,Nico Hülkenberg,12,22,Retired

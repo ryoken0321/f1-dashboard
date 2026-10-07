@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F1 歴代通算 & 王者の系譜</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="stripe"></div>
+  <div class="checker"></div>
+
+  <div class="container">
+    <header>
+      <p class="eyebrow">ALL-TIME · 2000 — 2026</p>
+      <h1><span class="red">F1</span> 歴代通算 &amp; 王者の系譜</h1>
+      <p class="subtitle">2000〜2026年の全ポイントを集計した通算ランキングと、歴代チャンピオン年表／ データ: Jolpica (Ergast) API</p>
+    </header>
+
+    <nav class="tabs">
+      <a href="index.html">ランキング</a>
+      <a href="constructors.html">チーム</a>
+      <a href="trend.html">推移</a>
+      <a href="gap.html">追い上げ</a>
+      <a href="laps.html">レース展開</a>
+      <a href="career.html">検索・比較</a>
+      <a href="legends.html" class="active">歴代</a>
+      <a href="analysis.html">分析</a>
+    </nav>
+
+    <div class="segmented" id="seg">
+      <button data-mode="driver" class="active">ドライバー通算</button>
+      <button data-mode="team">チーム通算</button>
+      <button data-mode="champions">王者の年表</button>
+    </div>
+
+    <p id="status" class="status hidden"></p>
+
+    <!-- 通算ランキング（driver/team） -->
+    <div id="rankView">
+      <div class="card">
+        <p class="card-title" id="chartTitle">All-time Points</p>
+        <div class="chart-wrap"><canvas id="myChart"></canvas></div>
+      </div>
+      <div class="card">
+        <p class="card-title">All-time Standings</p>
+        <table id="dataTable"></table>
+      </div>
+    </div>
+
+    <!-- 王者の年表 -->
+    <div id="champView" class="card hidden">
+      <p class="card-title">Champions Timeline</p>
+      <div class="timeline" id="timeline"></div>
+    </div>
+
+    <footer>
+      Source: <span class="red">Jolpica / Ergast API</span>（オープンデータ）<br>
+      pointstbl(縦持ち) を SUM / 副問い合わせで集計
+    </footer>
+  </div>
+
+  <script src="js/teamdata.js"></script>
+  <script src="js/teams.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/legends.js"></script>
+</body>
+</html>

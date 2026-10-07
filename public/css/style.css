@@ -1,0 +1,279 @@
+/* =========================================================
+   F1 ダッシュボード 共通スタイル（ダーク・レーシング基調）
+   index.html / trend.html で共有
+   ========================================================= */
+
+:root {
+  --bg: #0d0f13;
+  --bg2: #14171d;
+  --panel: #181c23;
+  --panel2: #1e232b;
+  --border: #2a2f39;
+  --fg: #f2f4f7;
+  --muted: #8b93a1;
+  --red: #e10600;
+  --red-bright: #ff2d24;
+  --gold: #ffce54;
+  --silver: #cdd3db;
+  --bronze: #d9914f;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+
+body {
+  font-family: "Noto Sans JP", system-ui, -apple-system, "Hiragino Sans", sans-serif;
+  color: var(--fg);
+  background:
+    radial-gradient(1200px 600px at 80% -10%, rgba(225, 6, 0, 0.16), transparent 60%),
+    radial-gradient(900px 500px at -10% 110%, rgba(40, 90, 200, 0.10), transparent 55%),
+    var(--bg);
+  min-height: 100vh;
+  padding: 0 0 48px;
+}
+
+/* ---- 上部レーシング装飾 ---- */
+.stripe {
+  height: 6px;
+  background: linear-gradient(90deg, var(--red) 0%, var(--red-bright) 40%, #ff7a00 100%);
+}
+.checker {
+  height: 14px;
+  background-image:
+    linear-gradient(45deg, #000 25%, transparent 25%, transparent 75%, #000 75%),
+    linear-gradient(45deg, #000 25%, transparent 25%, transparent 75%, #000 75%);
+  background-size: 14px 14px;
+  background-position: 0 0, 7px 7px;
+  background-color: #1b1f26;
+  opacity: 0.55;
+}
+
+.container { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+
+/* ---- ヘッダー ---- */
+header { padding: 30px 0 18px; }
+.eyebrow {
+  font-family: "Orbitron", sans-serif;
+  letter-spacing: 0.22em;
+  font-size: 0.72rem;
+  color: var(--red-bright);
+  font-weight: 600;
+  margin: 0 0 8px;
+}
+h1 {
+  font-family: "Orbitron", sans-serif;
+  font-size: 2.1rem;
+  line-height: 1.1;
+  margin: 0;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+}
+h1 .red { color: var(--red); }
+.subtitle { color: var(--muted); margin: 10px 0 0; font-size: 0.92rem; }
+
+/* ---- ナビゲーションタブ ---- */
+.tabs { display: flex; gap: 8px; flex-wrap: wrap; margin: 22px 0 4px; }
+.tabs a {
+  text-decoration: none; color: var(--muted);
+  font-family: "Orbitron", sans-serif; font-weight: 600; font-size: 0.78rem;
+  letter-spacing: 0.04em; padding: 9px 16px; border-radius: 9px;
+  border: 1px solid var(--border); background: var(--panel2);
+  transition: color .15s, border-color .15s, background .15s;
+}
+.tabs a:hover { color: var(--fg); border-color: #3a414d; }
+.tabs a.active {
+  color: #fff; border-color: transparent;
+  background: linear-gradient(135deg, var(--red), #b30500);
+  box-shadow: 0 4px 14px rgba(225,6,0,0.32);
+}
+
+/* ---- セグメント切替（歴代/分析画面） ---- */
+.segmented { display: inline-flex; gap: 4px; padding: 4px; border-radius: 12px;
+  background: var(--panel); border: 1px solid var(--border); margin: 6px 0 16px; flex-wrap: wrap; }
+.segmented button {
+  border: none; background: transparent; color: var(--muted);
+  font-family: "Orbitron", sans-serif; font-weight: 700; font-size: 0.76rem;
+  letter-spacing: 0.04em; padding: 9px 16px; border-radius: 9px; cursor: pointer;
+}
+.segmented button:hover { background: var(--panel2); color: var(--fg); }
+.segmented button.active { background: linear-gradient(135deg, var(--red), #b30500); color: #fff; }
+
+/* ---- 王者の年表 ---- */
+.timeline { display: flex; flex-direction: column; gap: 2px; }
+.tl-row { display: grid; grid-template-columns: 78px 1fr auto; align-items: center;
+  gap: 14px; padding: 10px 12px; border-left: 3px solid var(--bar, var(--red));
+  background: var(--panel2); border-radius: 0 10px 10px 0; }
+.tl-year { font-family: "Orbitron", sans-serif; font-weight: 800; font-size: 1.05rem; }
+.tl-driver { font-weight: 700; }
+.tl-driver .ongoing { color: var(--muted); font-size: 0.78rem; font-weight: 400; margin-left: 6px; }
+.tl-pts { font-variant-numeric: tabular-nums; font-weight: 700; color: var(--muted); }
+
+/* ---- チームメイト対決 ---- */
+.h2h-team { margin-bottom: 14px; }
+.h2h-head { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; }
+.h2h-row { display: grid; grid-template-columns: 150px 1fr 56px; align-items: center; gap: 10px; margin: 4px 0; }
+.h2h-name { font-weight: 700; font-size: 0.9rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.h2h-name.win::after { content: " ▲"; color: var(--gold); }
+.h2h-bar-wrap { background: rgba(255,255,255,0.06); border-radius: 6px; height: 16px; overflow: hidden; }
+.h2h-bar { height: 100%; border-radius: 6px; }
+.h2h-pts { text-align: right; font-variant-numeric: tabular-nums; font-weight: 700; }
+
+/* ---- 接戦度カード ---- */
+.drama-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 14px; }
+.drama-card { background: linear-gradient(180deg, var(--panel2), var(--panel));
+  border: 1px solid var(--border); border-radius: 14px; padding: 16px; position: relative; overflow: hidden; }
+.drama-card.hot { border-color: var(--red); box-shadow: 0 0 0 1px var(--red) inset, 0 8px 24px rgba(225,6,0,0.2); }
+.drama-season { font-family: "Orbitron", sans-serif; font-weight: 800; font-size: 1.3rem; }
+.drama-tag { display: inline-block; font-size: 0.64rem; font-weight: 800; letter-spacing: 0.08em;
+  padding: 2px 8px; border-radius: 5px; margin-left: 8px; vertical-align: middle;
+  background: var(--red); color: #fff; }
+.drama-metric { display: flex; justify-content: space-between; margin: 10px 0 2px; font-size: 0.88rem; }
+.drama-metric .lab { color: var(--muted); }
+.drama-metric .val { font-weight: 800; font-variant-numeric: tabular-nums; }
+.drama-champ { margin-top: 10px; padding-top: 10px; border-top: 1px solid var(--border); font-size: 0.84rem; }
+
+/* ---- ツールバー ---- */
+.toolbar {
+  display: flex; align-items: center; gap: 14px; flex-wrap: wrap;
+  margin: 24px 0 18px;
+}
+.ctrl { display: flex; align-items: center; gap: 10px; }
+.ctrl label {
+  font-family: "Orbitron", sans-serif;
+  font-size: 0.72rem; letter-spacing: 0.18em; color: var(--muted);
+  text-transform: uppercase;
+}
+select {
+  appearance: none;
+  padding: 11px 40px 11px 16px;
+  font-size: 1rem; font-family: inherit; font-weight: 700;
+  color: var(--fg);
+  background:
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='8'><path d='M1 1l5 5 5-5' stroke='%23e10600' stroke-width='2' fill='none'/></svg>") no-repeat right 16px center,
+    var(--panel2);
+  border: 1px solid var(--border);
+  border-radius: 10px; cursor: pointer; min-width: 160px;
+  transition: border-color .15s, box-shadow .15s;
+}
+select:hover, select:focus { border-color: var(--red); box-shadow: 0 0 0 3px rgba(225, 6, 0, 0.18); outline: none; }
+button {
+  padding: 11px 18px; font-size: 0.92rem; font-family: inherit; font-weight: 700;
+  color: var(--fg); background: var(--panel2);
+  border: 1px solid var(--border); border-radius: 10px; cursor: pointer;
+  transition: background .15s, border-color .15s;
+}
+button:hover { background: #262c35; border-color: #3a414d; }
+input[type="text"], #nameInput {
+  padding: 11px 16px; font-size: 1rem; font-family: inherit; font-weight: 600;
+  color: var(--fg); background: var(--panel2);
+  border: 1px solid var(--border); border-radius: 10px; min-width: 240px;
+  transition: border-color .15s, box-shadow .15s;
+}
+#nameInput:focus { border-color: var(--red); box-shadow: 0 0 0 3px rgba(225,6,0,0.18); outline: none; }
+
+/* ---- ドライバーチップ（検索・比較画面） ---- */
+.chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 4px 0 14px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 7px 12px; border-radius: 999px; font-size: 0.85rem; font-weight: 700;
+  background: var(--panel2); border: 1.5px solid var(--border); color: var(--fg);
+}
+.chip-dot { width: 10px; height: 10px; border-radius: 50%; }
+.chip-x { cursor: pointer; color: var(--muted); font-weight: 800; margin-left: 2px; }
+.chip-x:hover { color: var(--red-bright); }
+.nav-link {
+  margin-left: auto; text-decoration: none;
+  font-family: "Orbitron", sans-serif; font-weight: 600; font-size: 0.82rem;
+  letter-spacing: 0.08em; color: var(--fg);
+  padding: 11px 18px; border-radius: 10px;
+  background: linear-gradient(135deg, var(--red), #b30500);
+  box-shadow: 0 4px 16px rgba(225, 6, 0, 0.35);
+  transition: transform .15s, box-shadow .15s;
+}
+.nav-link:hover { transform: translateY(-1px); box-shadow: 0 6px 22px rgba(225, 6, 0, 0.5); }
+
+/* ---- スタッツカード（画面1） ---- */
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 18px; }
+.stat {
+  background: linear-gradient(180deg, var(--panel2), var(--panel));
+  border: 1px solid var(--border); border-radius: 14px; padding: 16px 18px;
+  position: relative; overflow: hidden;
+}
+.stat::before {
+  content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px;
+  background: var(--bar, linear-gradient(180deg, var(--red), #7a0300));
+}
+.stat .k {
+  font-family: "Orbitron", sans-serif; font-size: 0.64rem; letter-spacing: 0.16em;
+  color: var(--muted); text-transform: uppercase; margin-bottom: 8px;
+}
+.stat .v { font-family: "Orbitron", sans-serif; font-size: 1.5rem; font-weight: 800; line-height: 1.1; }
+.stat .v.small { font-size: 1.15rem; }
+.stat .u { font-size: 0.8rem; color: var(--muted); margin-left: 4px; font-family: "Noto Sans JP", sans-serif; }
+
+/* ---- カード ---- */
+.card {
+  background: var(--panel); border: 1px solid var(--border);
+  border-radius: 16px; padding: 20px; margin-bottom: 18px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+.card-title {
+  font-family: "Orbitron", sans-serif; font-size: 0.8rem; letter-spacing: 0.1em;
+  color: var(--muted); text-transform: uppercase; margin: 0 0 14px;
+  display: flex; align-items: center; gap: 8px;
+}
+.card-title::before { content: ""; width: 10px; height: 10px; background: var(--red); border-radius: 2px; transform: rotate(45deg); }
+.chart-wrap { position: relative; height: 380px; }
+.chart-wrap.tall { height: 460px; }
+
+/* ---- グラフ下の凡例・注記（追い上げ画面など） ---- */
+.note {
+  margin: 14px 2px 0; font-size: 0.78rem; line-height: 1.7; color: var(--muted);
+  display: flex; align-items: center; flex-wrap: wrap; gap: 6px;
+}
+.swatch {
+  display: inline-block; width: 12px; height: 12px; border-radius: 3px;
+  vertical-align: middle; margin-left: 6px;
+}
+.swatch.gain { background: #2ec36e; }
+.swatch.loss { background: #ff2d24; }
+
+/* ---- 順位表（画面1） ---- */
+table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+thead th {
+  font-family: "Orbitron", sans-serif; font-size: 0.66rem; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--muted); text-align: left;
+  padding: 10px 14px; border-bottom: 2px solid var(--border);
+}
+tbody td { padding: 11px 14px; border-bottom: 1px solid rgba(255, 255, 255, 0.05); }
+tbody tr:hover { background: rgba(225, 6, 0, 0.06); }
+td.num { text-align: right; font-variant-numeric: tabular-nums; font-weight: 700; }
+.pos { font-family: "Orbitron", sans-serif; font-weight: 800; width: 46px; color: var(--muted); }
+.team { font-size: 0.86rem; white-space: nowrap; }
+.team-name { color: var(--muted); vertical-align: middle; }
+tr.zero { opacity: 0.5; }
+.badge {
+  display: inline-block; min-width: 38px; text-align: center;
+  font-family: "Orbitron", sans-serif; font-weight: 800; font-size: 0.66rem;
+  letter-spacing: 0.06em; padding: 4px 7px; border-radius: 5px; margin-right: 10px;
+  vertical-align: middle; box-shadow: 0 1px 4px rgba(0,0,0,0.35);
+}
+tr.p1 .pos { color: var(--gold); }
+tr.p2 .pos { color: var(--silver); }
+tr.p3 .pos { color: var(--bronze); }
+tr.p1 .name { color: var(--gold); }
+.name { font-weight: 700; }
+.medal { margin-right: 6px; }
+
+/* ---- ステータス / フッター ---- */
+.status { color: var(--muted); padding: 10px 0; font-size: 0.9rem; }
+.status.error { color: #ff6b6b; font-weight: 700; }
+.hidden { display: none; }
+footer { color: var(--muted); font-size: 0.78rem; text-align: center; margin-top: 26px; line-height: 1.7; }
+footer .red { color: var(--red-bright); }
+
+@media (max-width: 680px) {
+  h1 { font-size: 1.55rem; }
+  .stats { grid-template-columns: 1fr; }
+  .nav-link { margin-left: 0; }
+}

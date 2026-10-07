@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F1 チームメイト対決 & 接戦度分析</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="stripe"></div>
+  <div class="checker"></div>
+
+  <div class="container">
+    <header>
+      <p class="eyebrow">ANALYSIS</p>
+      <h1><span class="red">F1</span> チームメイト対決 &amp; 接戦度分析</h1>
+      <p class="subtitle">同じマシンに乗る2人の直接対決と、タイトル争いの劇的さを分析／ データ: Jolpica (Ergast) API</p>
+    </header>
+
+    <nav class="tabs">
+      <a href="index.html">ランキング</a>
+      <a href="constructors.html">チーム</a>
+      <a href="trend.html">推移</a>
+      <a href="gap.html">追い上げ</a>
+      <a href="laps.html">レース展開</a>
+      <a href="career.html">検索・比較</a>
+      <a href="legends.html">歴代</a>
+      <a href="analysis.html" class="active">分析</a>
+    </nav>
+
+    <div class="segmented" id="seg">
+      <button data-mode="h2h" class="active">チームメイト対決</button>
+      <button data-mode="drama">接戦度・首位交代</button>
+    </div>
+
+    <div class="toolbar" id="seasonBar">
+      <div class="ctrl">
+        <label for="seasonSel">Season</label>
+        <select id="seasonSel"></select>
+      </div>
+    </div>
+
+    <p id="status" class="status hidden"></p>
+
+    <!-- チームメイト対決 -->
+    <div id="h2hView" class="card">
+      <p class="card-title" id="h2hTitle">Teammate Head-to-Head</p>
+      <div id="h2h"></div>
+    </div>
+
+    <!-- 接戦度 -->
+    <div id="dramaView" class="hidden">
+      <p class="card-title">Championship Drama（2021-2026）</p>
+      <p class="subtitle" style="margin:-6px 0 16px">首位交代が多い／最終ポイント差が小さいほど劇的なシーズン。</p>
+      <div class="drama-grid" id="drama"></div>
+    </div>
+
+    <footer>
+      Source: <span class="red">Jolpica / Ergast API</span>（オープンデータ）<br>
+      ウィンドウ関数 ROW_NUMBER / racetbl の推移集計
+    </footer>
+  </div>
+
+  <script src="js/teamdata.js"></script>
+  <script src="js/teams.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/analysis.js"></script>
+</body>
+</html>
